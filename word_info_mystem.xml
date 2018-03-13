@@ -1,0 +1,2482 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Math-Net>
+  <word value="MetOffice" count="1">
+    <documents>
+      <document id="3"/>
+    </documents>
+  </word>
+  <word value="SbSI" count="1">
+    <documents>
+      <document id="8"/>
+    </documents>
+  </word>
+  <word value="UK" count="1">
+    <documents>
+      <document id="3"/>
+    </documents>
+  </word>
+  <word value="null" count="1">
+    <documents>
+      <document id="16"/>
+    </documents>
+  </word>
+  <word value="ГНСС" count="1">
+    <documents>
+      <document id="5"/>
+    </documents>
+  </word>
+  <word value="РДС" count="3">
+    <documents>
+      <document id="15"/>
+    </documents>
+  </word>
+  <word value="РДСс" count="1">
+    <documents>
+      <document id="15"/>
+    </documents>
+  </word>
+  <word value="август" count="1">
+    <documents>
+      <document id="15"/>
+    </documents>
+  </word>
+  <word value="автоматически" count="1">
+    <documents>
+      <document id="12"/>
+    </documents>
+  </word>
+  <word value="автоматический" count="3">
+    <documents>
+      <document id="2"/>
+      <document id="4"/>
+    </documents>
+  </word>
+  <word value="алгебра" count="1">
+    <documents>
+      <document id="9"/>
+    </documents>
+  </word>
+  <word value="алгоритм" count="2">
+    <documents>
+      <document id="2"/>
+      <document id="4"/>
+    </documents>
+  </word>
+  <word value="анализ" count="2">
+    <documents>
+      <document id="5"/>
+      <document id="10"/>
+    </documents>
+  </word>
+  <word value="аналогичный" count="1">
+    <documents>
+      <document id="10"/>
+    </documents>
+  </word>
+  <word value="аппаратура" count="2">
+    <documents>
+      <document id="1"/>
+    </documents>
+  </word>
+  <word value="аппроксимация" count="1">
+    <documents>
+      <document id="11"/>
+    </documents>
+  </word>
+  <word value="асимметричность" count="1">
+    <documents>
+      <document id="7"/>
+    </documents>
+  </word>
+  <word value="асимметричный" count="1">
+    <documents>
+      <document id="7"/>
+    </documents>
+  </word>
+  <word value="асимптотический" count="1">
+    <documents>
+      <document id="10"/>
+    </documents>
+  </word>
+  <word value="аспект" count="1">
+    <documents>
+      <document id="13"/>
+    </documents>
+  </word>
+  <word value="атмосфера" count="2">
+    <documents>
+      <document id="5"/>
+    </documents>
+  </word>
+  <word value="атмосферный" count="1">
+    <documents>
+      <document id="5"/>
+    </documents>
+  </word>
+  <word value="атомный" count="1">
+    <documents>
+      <document id="15"/>
+    </documents>
+  </word>
+  <word value="без" count="1">
+    <documents>
+      <document id="2"/>
+    </documents>
+  </word>
+  <word value="большой" count="2">
+    <documents>
+      <document id="1"/>
+      <document id="10"/>
+    </documents>
+  </word>
+  <word value="бомба" count="2">
+    <documents>
+      <document id="15"/>
+    </documents>
+  </word>
+  <word value="быть" count="5">
+    <documents>
+      <document id="4"/>
+      <document id="5"/>
+      <document id="15"/>
+    </documents>
+  </word>
+  <word value="в" count="30">
+    <documents>
+      <document id="2"/>
+      <document id="3"/>
+      <document id="4"/>
+      <document id="5"/>
+      <document id="6"/>
+      <document id="7"/>
+      <document id="8"/>
+      <document id="10"/>
+      <document id="11"/>
+      <document id="12"/>
+      <document id="15"/>
+    </documents>
+  </word>
+  <word value="важно" count="2">
+    <documents>
+      <document id="1"/>
+      <document id="12"/>
+    </documents>
+  </word>
+  <word value="вариационный" count="1">
+    <documents>
+      <document id="12"/>
+    </documents>
+  </word>
+  <word value="вариация" count="1">
+    <documents>
+      <document id="5"/>
+    </documents>
+  </word>
+  <word value="вдоль" count="1">
+    <documents>
+      <document id="9"/>
+    </documents>
+  </word>
+  <word value="вектор" count="1">
+    <documents>
+      <document id="9"/>
+    </documents>
+  </word>
+  <word value="векторный" count="1">
+    <documents>
+      <document id="9"/>
+    </documents>
+  </word>
+  <word value="вертикальный" count="2">
+    <documents>
+      <document id="4"/>
+      <document id="5"/>
+    </documents>
+  </word>
+  <word value="весь" count="1">
+    <documents>
+      <document id="9"/>
+    </documents>
+  </word>
+  <word value="ветер" count="1">
+    <documents>
+      <document id="3"/>
+    </documents>
+  </word>
+  <word value="виндуктивносвязанный" count="1">
+    <documents>
+      <document id="7"/>
+    </documents>
+  </word>
+  <word value="винтовой" count="2">
+    <documents>
+      <document id="6"/>
+    </documents>
+  </word>
+  <word value="внешний" count="1">
+    <documents>
+      <document id="12"/>
+    </documents>
+  </word>
+  <word value="вовлекать" count="1">
+    <documents>
+      <document id="15"/>
+    </documents>
+  </word>
+  <word value="возможность" count="2">
+    <documents>
+      <document id="2"/>
+      <document id="5"/>
+    </documents>
+  </word>
+  <word value="возможный" count="2">
+    <documents>
+      <document id="5"/>
+      <document id="9"/>
+    </documents>
+  </word>
+  <word value="возникать" count="1">
+    <documents>
+      <document id="11"/>
+    </documents>
+  </word>
+  <word value="волновой" count="2">
+    <documents>
+      <document id="2"/>
+      <document id="5"/>
+    </documents>
+  </word>
+  <word value="вплоть" count="1">
+    <documents>
+      <document id="1"/>
+    </documents>
+  </word>
+  <word value="вразомкнутый" count="1">
+    <documents>
+      <document id="6"/>
+    </documents>
+  </word>
+  <word value="временный" count="3">
+    <documents>
+      <document id="3"/>
+      <document id="5"/>
+    </documents>
+  </word>
+  <word value="время" count="1">
+    <documents>
+      <document id="3"/>
+    </documents>
+  </word>
+  <word value="встатья" count="1">
+    <documents>
+      <document id="4"/>
+    </documents>
+  </word>
+  <word value="второй" count="2">
+    <documents>
+      <document id="13"/>
+      <document id="14"/>
+    </documents>
+  </word>
+  <word value="выделять" count="1">
+    <documents>
+      <document id="9"/>
+    </documents>
+  </word>
+  <word value="выражение" count="1">
+    <documents>
+      <document id="6"/>
+    </documents>
+  </word>
+  <word value="высокоточный" count="1">
+    <documents>
+      <document id="5"/>
+    </documents>
+  </word>
+  <word value="высота" count="1">
+    <documents>
+      <document id="3"/>
+    </documents>
+  </word>
+  <word value="высотный" count="1">
+    <documents>
+      <document id="1"/>
+    </documents>
+  </word>
+  <word value="выявлять" count="1">
+    <documents>
+      <document id="5"/>
+    </documents>
+  </word>
+  <word value="г" count="2">
+    <documents>
+      <document id="15"/>
+    </documents>
+  </word>
+  <word value="газ" count="1">
+    <documents>
+      <document id="12"/>
+    </documents>
+  </word>
+  <word value="гг" count="1">
+    <documents>
+      <document id="3"/>
+    </documents>
+  </word>
+  <word value="геодезический" count="2">
+    <documents>
+      <document id="5"/>
+    </documents>
+  </word>
+  <word value="геометрический" count="1">
+    <documents>
+      <document id="6"/>
+    </documents>
+  </word>
+  <word value="геометрия" count="2">
+    <documents>
+      <document id="6"/>
+      <document id="9"/>
+    </documents>
+  </word>
+  <word value="геопотенциальный" count="1">
+    <documents>
+      <document id="3"/>
+    </documents>
+  </word>
+  <word value="гиперупругий" count="2">
+    <documents>
+      <document id="13"/>
+    </documents>
+  </word>
+  <word value="год" count="1">
+    <documents>
+      <document id="15"/>
+    </documents>
+  </word>
+  <word value="государственный" count="1">
+    <documents>
+      <document id="4"/>
+    </documents>
+  </word>
+  <word value="гпапримерно" count="1">
+    <documents>
+      <document id="3"/>
+    </documents>
+  </word>
+  <word value="граница" count="4">
+    <documents>
+      <document id="10"/>
+      <document id="12"/>
+    </documents>
+  </word>
+  <word value="группа" count="3">
+    <documents>
+      <document id="9"/>
+    </documents>
+  </word>
+  <word value="групповой" count="1">
+    <documents>
+      <document id="1"/>
+    </documents>
+  </word>
+  <word value="давать" count="1">
+    <documents>
+      <document id="5"/>
+    </documents>
+  </word>
+  <word value="данные" count="3">
+    <documents>
+      <document id="2"/>
+      <document id="3"/>
+      <document id="5"/>
+    </documents>
+  </word>
+  <word value="данный" count="5">
+    <documents>
+      <document id="2"/>
+      <document id="5"/>
+      <document id="9"/>
+      <document id="12"/>
+    </documents>
+  </word>
+  <word value="два" count="1">
+    <documents>
+      <document id="12"/>
+    </documents>
+  </word>
+  <word value="движение" count="6">
+    <documents>
+      <document id="5"/>
+      <document id="9"/>
+    </documents>
+  </word>
+  <word value="двуслойный" count="1">
+    <documents>
+      <document id="10"/>
+    </documents>
+  </word>
+  <word value="деформация" count="1">
+    <documents>
+      <document id="13"/>
+    </documents>
+  </word>
+  <word value="диапазон" count="1">
+    <documents>
+      <document id="10"/>
+    </documents>
+  </word>
+  <word value="динамика" count="1">
+    <documents>
+      <document id="7"/>
+    </documents>
+  </word>
+  <word value="дифференциальный" count="3">
+    <documents>
+      <document id="5"/>
+      <document id="14"/>
+    </documents>
+  </word>
+  <word value="для" count="10">
+    <documents>
+      <document id="2"/>
+      <document id="3"/>
+      <document id="4"/>
+      <document id="6"/>
+      <document id="10"/>
+      <document id="11"/>
+      <document id="12"/>
+      <document id="13"/>
+    </documents>
+  </word>
+  <word value="до" count="3">
+    <documents>
+      <document id="1"/>
+      <document id="2"/>
+      <document id="3"/>
+    </documents>
+  </word>
+  <word value="доказательство" count="1">
+    <documents>
+      <document id="11"/>
+    </documents>
+  </word>
+  <word value="долгопериодный" count="1">
+    <documents>
+      <document id="2"/>
+    </documents>
+  </word>
+  <word value="долгосрочный" count="1">
+    <documents>
+      <document id="2"/>
+    </documents>
+  </word>
+  <word value="доплеровский" count="1">
+    <documents>
+      <document id="2"/>
+    </documents>
+  </word>
+  <word value="допускать" count="1">
+    <documents>
+      <document id="9"/>
+    </documents>
+  </word>
+  <word value="его" count="1">
+    <documents>
+      <document id="10"/>
+    </documents>
+  </word>
+  <word value="единственный" count="1">
+    <documents>
+      <document id="9"/>
+    </documents>
+  </word>
+  <word value="ее" count="1">
+    <documents>
+      <document id="10"/>
+    </documents>
+  </word>
+  <word value="ежедневный" count="1">
+    <documents>
+      <document id="3"/>
+    </documents>
+  </word>
+  <word value="екзавойский" count="2">
+    <documents>
+      <document id="15"/>
+    </documents>
+  </word>
+  <word value="жидкость" count="4">
+    <documents>
+      <document id="9"/>
+      <document id="10"/>
+    </documents>
+  </word>
+  <word value="за" count="1">
+    <documents>
+      <document id="3"/>
+    </documents>
+  </word>
+  <word value="зависеть" count="1">
+    <documents>
+      <document id="6"/>
+    </documents>
+  </word>
+  <word value="зависимость" count="1">
+    <documents>
+      <document id="8"/>
+    </documents>
+  </word>
+  <word value="заданный" count="3">
+    <documents>
+      <document id="12"/>
+      <document id="14"/>
+    </documents>
+  </word>
+  <word value="задача" count="9">
+    <documents>
+      <document id="10"/>
+      <document id="11"/>
+      <document id="12"/>
+      <document id="14"/>
+    </documents>
+  </word>
+  <word value="задержка" count="1">
+    <documents>
+      <document id="1"/>
+    </documents>
+  </word>
+  <word value="закон" count="1">
+    <documents>
+      <document id="12"/>
+    </documents>
+  </word>
+  <word value="замыкание" count="1">
+    <documents>
+      <document id="6"/>
+    </documents>
+  </word>
+  <word value="земля" count="2">
+    <documents>
+      <document id="2"/>
+      <document id="3"/>
+    </documents>
+  </word>
+  <word value="земной" count="1">
+    <documents>
+      <document id="5"/>
+    </documents>
+  </word>
+  <word value="значение" count="2">
+    <documents>
+      <document id="3"/>
+      <document id="4"/>
+    </documents>
+  </word>
+  <word value="значительно" count="1">
+    <documents>
+      <document id="1"/>
+    </documents>
+  </word>
+  <word value="значительный" count="1">
+    <documents>
+      <document id="7"/>
+    </documents>
+  </word>
+  <word value="зональный" count="3">
+    <documents>
+      <document id="3"/>
+    </documents>
+  </word>
+  <word value="зондирование" count="3">
+    <documents>
+      <document id="1"/>
+      <document id="2"/>
+      <document id="4"/>
+    </documents>
+  </word>
+  <word value="и" count="22">
+    <documents>
+      <document id="2"/>
+      <document id="3"/>
+      <document id="4"/>
+      <document id="5"/>
+      <document id="6"/>
+      <document id="7"/>
+      <document id="8"/>
+      <document id="9"/>
+      <document id="10"/>
+      <document id="11"/>
+      <document id="12"/>
+      <document id="13"/>
+      <document id="15"/>
+    </documents>
+  </word>
+  <word value="идеальный" count="1">
+    <documents>
+      <document id="10"/>
+    </documents>
+  </word>
+  <word value="известный" count="1">
+    <documents>
+      <document id="10"/>
+    </documents>
+  </word>
+  <word value="изложение" count="1">
+    <documents>
+      <document id="13"/>
+    </documents>
+  </word>
+  <word value="изменение" count="3">
+    <documents>
+      <document id="5"/>
+      <document id="7"/>
+      <document id="10"/>
+    </documents>
+  </word>
+  <word value="изменчивостифундаментальный" count="1">
+    <documents>
+      <document id="3"/>
+    </documents>
+  </word>
+  <word value="изменчивость" count="3">
+    <documents>
+      <document id="3"/>
+      <document id="5"/>
+    </documents>
+  </word>
+  <word value="изменять" count="1">
+    <documents>
+      <document id="1"/>
+    </documents>
+  </word>
+  <word value="измерение" count="2">
+    <documents>
+      <document id="2"/>
+      <document id="5"/>
+    </documents>
+  </word>
+  <word value="измерительный" count="1">
+    <documents>
+      <document id="2"/>
+    </documents>
+  </word>
+  <word value="изобарический" count="1">
+    <documents>
+      <document id="3"/>
+    </documents>
+  </word>
+  <word value="изометрия" count="1">
+    <documents>
+      <document id="9"/>
+    </documents>
+  </word>
+  <word value="изотропный" count="1">
+    <documents>
+      <document id="13"/>
+    </documents>
+  </word>
+  <word value="изучение" count="1">
+    <documents>
+      <document id="5"/>
+    </documents>
+  </word>
+  <word value="или" count="1">
+    <documents>
+      <document id="12"/>
+    </documents>
+  </word>
+  <word value="имеридиональный" count="1">
+    <documents>
+      <document id="3"/>
+    </documents>
+  </word>
+  <word value="индуктивносвязанный" count="2">
+    <documents>
+      <document id="7"/>
+    </documents>
+  </word>
+  <word value="индуктор" count="3">
+    <documents>
+      <document id="6"/>
+      <document id="7"/>
+    </documents>
+  </word>
+  <word value="интеграл" count="1">
+    <documents>
+      <document id="12"/>
+    </documents>
+  </word>
+  <word value="интегральный" count="2">
+    <documents>
+      <document id="12"/>
+      <document id="14"/>
+    </documents>
+  </word>
+  <word value="интерпретация" count="1">
+    <documents>
+      <document id="4"/>
+    </documents>
+  </word>
+  <word value="информация" count="1">
+    <documents>
+      <document id="2"/>
+    </documents>
+  </word>
+  <word value="ионограмма" count="3">
+    <documents>
+      <document id="4"/>
+    </documents>
+  </word>
+  <word value="ионозонд" count="2">
+    <documents>
+      <document id="1"/>
+      <document id="4"/>
+    </documents>
+  </word>
+  <word value="ионосфера" count="3">
+    <documents>
+      <document id="2"/>
+    </documents>
+  </word>
+  <word value="ионосферный" count="1">
+    <documents>
+      <document id="4"/>
+    </documents>
+  </word>
+  <word value="иотносительно" count="1">
+    <documents>
+      <document id="3"/>
+    </documents>
+  </word>
+  <word value="использовалисьдисперсия" count="1">
+    <documents>
+      <document id="3"/>
+    </documents>
+  </word>
+  <word value="использоваться" count="1">
+    <documents>
+      <document id="12"/>
+    </documents>
+  </word>
+  <word value="испытывать" count="1">
+    <documents>
+      <document id="15"/>
+    </documents>
+  </word>
+  <word value="исследование" count="3">
+    <documents>
+      <document id="2"/>
+      <document id="11"/>
+      <document id="13"/>
+    </documents>
+  </word>
+  <word value="исследовать" count="3">
+    <documents>
+      <document id="8"/>
+      <document id="9"/>
+    </documents>
+  </word>
+  <word value="итерационный" count="2">
+    <documents>
+      <document id="10"/>
+      <document id="11"/>
+    </documents>
+  </word>
+  <word value="их" count="1">
+    <documents>
+      <document id="10"/>
+    </documents>
+  </word>
+  <word value="июжный" count="1">
+    <documents>
+      <document id="3"/>
+    </documents>
+  </word>
+  <word value="к" count="3">
+    <documents>
+      <document id="5"/>
+      <document id="12"/>
+      <document id="14"/>
+    </documents>
+  </word>
+  <word value="казанский" count="1">
+    <documents>
+      <document id="4"/>
+    </documents>
+  </word>
+  <word value="как" count="1">
+    <documents>
+      <document id="10"/>
+    </documents>
+  </word>
+  <word value="качество" count="2">
+    <documents>
+      <document id="3"/>
+      <document id="12"/>
+    </documents>
+  </word>
+  <word value="квазивариационный" count="1">
+    <documents>
+      <document id="11"/>
+    </documents>
+  </word>
+  <word value="киллинг" count="2">
+    <documents>
+      <document id="9"/>
+    </documents>
+  </word>
+  <word value="класс" count="1">
+    <documents>
+      <document id="12"/>
+    </documents>
+  </word>
+  <word value="км" count="1">
+    <documents>
+      <document id="3"/>
+    </documents>
+  </word>
+  <word value="комплекс" count="1">
+    <documents>
+      <document id="2"/>
+    </documents>
+  </word>
+  <word value="компонент" count="1">
+    <documents>
+      <document id="9"/>
+    </documents>
+  </word>
+  <word value="конечномерный" count="1">
+    <documents>
+      <document id="11"/>
+    </documents>
+  </word>
+  <word value="конечноэлементный" count="2">
+    <documents>
+      <document id="11"/>
+    </documents>
+  </word>
+  <word value="конечный" count="1">
+    <documents>
+      <document id="13"/>
+    </documents>
+  </word>
+  <word value="контраст" count="1">
+    <documents>
+      <document id="10"/>
+    </documents>
+  </word>
+  <word value="конфигурация" count="1">
+    <documents>
+      <document id="10"/>
+    </documents>
+  </word>
+  <word value="координата" count="2">
+    <documents>
+      <document id="5"/>
+    </documents>
+  </word>
+  <word value="кора" count="1">
+    <documents>
+      <document id="5"/>
+    </documents>
+  </word>
+  <word value="корректно" count="1">
+    <documents>
+      <document id="4"/>
+    </documents>
+  </word>
+  <word value="который" count="3">
+    <documents>
+      <document id="5"/>
+      <document id="6"/>
+      <document id="9"/>
+    </documents>
+  </word>
+  <word value="которымвыделяться" count="1">
+    <documents>
+      <document id="3"/>
+    </documents>
+  </word>
+  <word value="левчивит" count="1">
+    <documents>
+      <document id="10"/>
+    </documents>
+  </word>
+  <word value="ли" count="1">
+    <documents>
+      <document id="9"/>
+    </documents>
+  </word>
+  <word value="любой" count="2">
+    <documents>
+      <document id="12"/>
+    </documents>
+  </word>
+  <word value="м" count="1">
+    <documents>
+      <document id="1"/>
+    </documents>
+  </word>
+  <word value="магнитный" count="1">
+    <documents>
+      <document id="6"/>
+    </documents>
+  </word>
+  <word value="майер" count="1">
+    <documents>
+      <document id="12"/>
+    </documents>
+  </word>
+  <word value="малопроницаемый" count="1">
+    <documents>
+      <document id="10"/>
+    </documents>
+  </word>
+  <word value="массовый" count="1">
+    <documents>
+      <document id="11"/>
+    </documents>
+  </word>
+  <word value="математический" count="1">
+    <documents>
+      <document id="11"/>
+    </documents>
+  </word>
+  <word value="материал" count="3">
+    <documents>
+      <document id="10"/>
+      <document id="13"/>
+    </documents>
+  </word>
+  <word value="межфазный" count="1">
+    <documents>
+      <document id="10"/>
+    </documents>
+  </word>
+  <word value="мезосферывслой" count="1">
+    <documents>
+      <document id="3"/>
+    </documents>
+  </word>
+  <word value="мера" count="1">
+    <documents>
+      <document id="3"/>
+    </documents>
+  </word>
+  <word value="месяц" count="1">
+    <documents>
+      <document id="2"/>
+    </documents>
+  </word>
+  <word value="метод" count="9">
+    <documents>
+      <document id="1"/>
+      <document id="5"/>
+      <document id="7"/>
+      <document id="10"/>
+      <document id="11"/>
+      <document id="14"/>
+    </documents>
+  </word>
+  <word value="методика" count="1">
+    <documents>
+      <document id="1"/>
+    </documents>
+  </word>
+  <word value="миллиметровый" count="1">
+    <documents>
+      <document id="5"/>
+    </documents>
+  </word>
+  <word value="минимизация" count="1">
+    <documents>
+      <document id="12"/>
+    </documents>
+  </word>
+  <word value="много" count="2">
+    <documents>
+      <document id="4"/>
+      <document id="15"/>
+    </documents>
+  </word>
+  <word value="многообразие" count="1">
+    <documents>
+      <document id="14"/>
+    </documents>
+  </word>
+  <word value="многочастотный" count="1">
+    <documents>
+      <document id="1"/>
+    </documents>
+  </word>
+  <word value="множество" count="1">
+    <documents>
+      <document id="14"/>
+    </documents>
+  </word>
+  <word value="модель" count="2">
+    <documents>
+      <document id="3"/>
+    </documents>
+  </word>
+  <word value="модернизация" count="1">
+    <documents>
+      <document id="2"/>
+    </documents>
+  </word>
+  <word value="можно" count="1">
+    <documents>
+      <document id="12"/>
+    </documents>
+  </word>
+  <word value="мониторинг" count="2">
+    <documents>
+      <document id="2"/>
+      <document id="5"/>
+    </documents>
+  </word>
+  <word value="мочь" count="2">
+    <documents>
+      <document id="4"/>
+      <document id="5"/>
+    </documents>
+  </word>
+  <word value="мощность" count="1">
+    <documents>
+      <document id="12"/>
+    </documents>
+  </word>
+  <word value="мягкий" count="1">
+    <documents>
+      <document id="11"/>
+    </documents>
+  </word>
+  <word value="на" count="9">
+    <documents>
+      <document id="2"/>
+      <document id="3"/>
+      <document id="7"/>
+      <document id="10"/>
+      <document id="11"/>
+      <document id="12"/>
+      <document id="14"/>
+    </documents>
+  </word>
+  <word value="наблюдение" count="1">
+    <documents>
+      <document id="5"/>
+    </documents>
+  </word>
+  <word value="нагрузка" count="1">
+    <documents>
+      <document id="11"/>
+    </documents>
+  </word>
+  <word value="надежный" count="1">
+    <documents>
+      <document id="2"/>
+    </documents>
+  </word>
+  <word value="наклонный" count="1">
+    <documents>
+      <document id="2"/>
+    </documents>
+  </word>
+  <word value="наличие" count="1">
+    <documents>
+      <document id="11"/>
+    </documents>
+  </word>
+  <word value="направление" count="3">
+    <documents>
+      <document id="8"/>
+    </documents>
+  </word>
+  <word value="направлять" count="1">
+    <documents>
+      <document id="9"/>
+    </documents>
+  </word>
+  <word value="настоящий" count="2">
+    <documents>
+      <document id="8"/>
+      <document id="13"/>
+    </documents>
+  </word>
+  <word value="насыщение" count="1">
+    <documents>
+      <document id="10"/>
+    </documents>
+  </word>
+  <word value="начальный" count="1">
+    <documents>
+      <document id="15"/>
+    </documents>
+  </word>
+  <word value="не" count="2">
+    <documents>
+      <document id="1"/>
+      <document id="6"/>
+    </documents>
+  </word>
+  <word value="неавтономный" count="2">
+    <documents>
+      <document id="14"/>
+    </documents>
+  </word>
+  <word value="независимый" count="1">
+    <documents>
+      <document id="12"/>
+    </documents>
+  </word>
+  <word value="некоторый" count="1">
+    <documents>
+      <document id="10"/>
+    </documents>
+  </word>
+  <word value="непрерывный" count="1">
+    <documents>
+      <document id="2"/>
+    </documents>
+  </word>
+  <word value="неравенство" count="1">
+    <documents>
+      <document id="11"/>
+    </documents>
+  </word>
+  <word value="несколько" count="1">
+    <documents>
+      <document id="2"/>
+    </documents>
+  </word>
+  <word value="нижний" count="1">
+    <documents>
+      <document id="3"/>
+    </documents>
+  </word>
+  <word value="новый" count="1">
+    <documents>
+      <document id="7"/>
+    </documents>
+  </word>
+  <word value="нормальный" count="2">
+    <documents>
+      <document id="9"/>
+    </documents>
+  </word>
+  <word value="носить" count="1">
+    <documents>
+      <document id="5"/>
+    </documents>
+  </word>
+  <word value="о" count="1">
+    <documents>
+      <document id="3"/>
+    </documents>
+  </word>
+  <word value="об" count="1">
+    <documents>
+      <document id="11"/>
+    </documents>
+  </word>
+  <word value="обнаруживать" count="2">
+    <documents>
+      <document id="5"/>
+      <document id="8"/>
+    </documents>
+  </word>
+  <word value="оболочка" count="2">
+    <documents>
+      <document id="11"/>
+    </documents>
+  </word>
+  <word value="обработка" count="6">
+    <documents>
+      <document id="2"/>
+      <document id="4"/>
+      <document id="5"/>
+    </documents>
+  </word>
+  <word value="образ" count="1">
+    <documents>
+      <document id="5"/>
+    </documents>
+  </word>
+  <word value="образование" count="1">
+    <documents>
+      <document id="8"/>
+    </documents>
+  </word>
+  <word value="образовывать" count="1">
+    <documents>
+      <document id="9"/>
+    </documents>
+  </word>
+  <word value="обтекать" count="1">
+    <documents>
+      <document id="12"/>
+    </documents>
+  </word>
+  <word value="обусловливать" count="1">
+    <documents>
+      <document id="7"/>
+    </documents>
+  </word>
+  <word value="обычный" count="1">
+    <documents>
+      <document id="1"/>
+    </documents>
+  </word>
+  <word value="ограничение" count="1">
+    <documents>
+      <document id="12"/>
+    </documents>
+  </word>
+  <word value="ограничивать" count="1">
+    <documents>
+      <document id="11"/>
+    </documents>
+  </word>
+  <word value="октябрь" count="1">
+    <documents>
+      <document id="15"/>
+    </documents>
+  </word>
+  <word value="он" count="3">
+    <documents>
+      <document id="4"/>
+      <document id="6"/>
+      <document id="15"/>
+    </documents>
+  </word>
+  <word value="она" count="1">
+    <documents>
+      <document id="10"/>
+    </documents>
+  </word>
+  <word value="оператор" count="2">
+    <documents>
+      <document id="2"/>
+      <document id="9"/>
+    </documents>
+  </word>
+  <word value="описывать" count="1">
+    <documents>
+      <document id="2"/>
+    </documents>
+  </word>
+  <word value="описываться" count="1">
+    <documents>
+      <document id="4"/>
+    </documents>
+  </word>
+  <word value="определение" count="2">
+    <documents>
+      <document id="10"/>
+      <document id="11"/>
+    </documents>
+  </word>
+  <word value="определять" count="3">
+    <documents>
+      <document id="4"/>
+      <document id="5"/>
+    </documents>
+  </word>
+  <word value="определяться" count="2">
+    <documents>
+      <document id="9"/>
+      <document id="14"/>
+    </documents>
+  </word>
+  <word value="определяющий" count="1">
+    <documents>
+      <document id="13"/>
+    </documents>
+  </word>
+  <word value="оптический" count="1">
+    <documents>
+      <document id="8"/>
+    </documents>
+  </word>
+  <word value="освещение" count="1">
+    <documents>
+      <document id="8"/>
+    </documents>
+  </word>
+  <word value="основа" count="1">
+    <documents>
+      <document id="2"/>
+    </documents>
+  </word>
+  <word value="основной" count="1">
+    <documents>
+      <document id="12"/>
+    </documents>
+  </word>
+  <word value="основывать" count="3">
+    <documents>
+      <document id="3"/>
+      <document id="7"/>
+      <document id="11"/>
+    </documents>
+  </word>
+  <word value="ось" count="4">
+    <documents>
+      <document id="6"/>
+    </documents>
+  </word>
+  <word value="от" count="3">
+    <documents>
+      <document id="3"/>
+      <document id="6"/>
+      <document id="8"/>
+    </documents>
+  </word>
+  <word value="отвечать" count="1">
+    <documents>
+      <document id="9"/>
+    </documents>
+  </word>
+  <word value="отмечать" count="1">
+    <documents>
+      <document id="12"/>
+    </documents>
+  </word>
+  <word value="относительно" count="2">
+    <documents>
+      <document id="3"/>
+      <document id="6"/>
+    </documents>
+  </word>
+  <word value="относить" count="1">
+    <documents>
+      <document id="12"/>
+    </documents>
+  </word>
+  <word value="отношение" count="1">
+    <documents>
+      <document id="14"/>
+    </documents>
+  </word>
+  <word value="оценка" count="2">
+    <documents>
+      <document id="1"/>
+      <document id="10"/>
+    </documents>
+  </word>
+  <word value="параметр" count="5">
+    <documents>
+      <document id="3"/>
+      <document id="4"/>
+      <document id="5"/>
+      <document id="10"/>
+    </documents>
+  </word>
+  <word value="первый" count="3">
+    <documents>
+      <document id="12"/>
+      <document id="15"/>
+    </documents>
+  </word>
+  <word value="переменный" count="1">
+    <documents>
+      <document id="12"/>
+    </documents>
+  </word>
+  <word value="перемещение" count="1">
+    <documents>
+      <document id="11"/>
+    </documents>
+  </word>
+  <word value="период" count="2">
+    <documents>
+      <document id="3"/>
+      <document id="15"/>
+    </documents>
+  </word>
+  <word value="периодический" count="2">
+    <documents>
+      <document id="5"/>
+    </documents>
+  </word>
+  <word value="перфорированный" count="1">
+    <documents>
+      <document id="12"/>
+    </documents>
+  </word>
+  <word value="плазма" count="5">
+    <documents>
+      <document id="7"/>
+    </documents>
+  </word>
+  <word value="плоский" count="1">
+    <documents>
+      <document id="10"/>
+    </documents>
+  </word>
+  <word value="плоскость" count="1">
+    <documents>
+      <document id="14"/>
+    </documents>
+  </word>
+  <word value="по" count="7">
+    <documents>
+      <document id="3"/>
+      <document id="5"/>
+      <document id="7"/>
+      <document id="14"/>
+      <document id="15"/>
+    </documents>
+  </word>
+  <word value="поверхностный" count="1">
+    <documents>
+      <document id="11"/>
+    </documents>
+  </word>
+  <word value="поверхность" count="2">
+    <documents>
+      <document id="3"/>
+      <document id="12"/>
+    </documents>
+  </word>
+  <word value="поворот" count="1">
+    <documents>
+      <document id="6"/>
+    </documents>
+  </word>
+  <word value="повышать" count="1">
+    <documents>
+      <document id="1"/>
+    </documents>
+  </word>
+  <word value="пограничный" count="1">
+    <documents>
+      <document id="12"/>
+    </documents>
+  </word>
+  <word value="подавать" count="1">
+    <documents>
+      <document id="12"/>
+    </documents>
+  </word>
+  <word value="позволять" count="3">
+    <documents>
+      <document id="1"/>
+      <document id="2"/>
+      <document id="5"/>
+    </documents>
+  </word>
+  <word value="показывать" count="5">
+    <documents>
+      <document id="4"/>
+      <document id="6"/>
+      <document id="7"/>
+      <document id="9"/>
+    </documents>
+  </word>
+  <word value="поле" count="8">
+    <documents>
+      <document id="6"/>
+      <document id="7"/>
+      <document id="9"/>
+    </documents>
+  </word>
+  <word value="положение" count="2">
+    <documents>
+      <document id="6"/>
+      <document id="11"/>
+    </documents>
+  </word>
+  <word value="получать" count="3">
+    <documents>
+      <document id="4"/>
+      <document id="6"/>
+      <document id="10"/>
+    </documents>
+  </word>
+  <word value="полушарие" count="1">
+    <documents>
+      <document id="3"/>
+    </documents>
+  </word>
+  <word value="поляризованный" count="1">
+    <documents>
+      <document id="8"/>
+    </documents>
+  </word>
+  <word value="полярный" count="1">
+    <documents>
+      <document id="7"/>
+    </documents>
+  </word>
+  <word value="помощь" count="2">
+    <documents>
+      <document id="1"/>
+      <document id="10"/>
+    </documents>
+  </word>
+  <word value="понимание" count="1">
+    <documents>
+      <document id="5"/>
+    </documents>
+  </word>
+  <word value="пористый" count="2">
+    <documents>
+      <document id="10"/>
+      <document id="12"/>
+    </documents>
+  </word>
+  <word value="порождать" count="1">
+    <documents>
+      <document id="9"/>
+    </documents>
+  </word>
+  <word value="порядок" count="2">
+    <documents>
+      <document id="9"/>
+      <document id="14"/>
+    </documents>
+  </word>
+  <word value="построение" count="4">
+    <documents>
+      <document id="11"/>
+      <document id="13"/>
+      <document id="14"/>
+    </documents>
+  </word>
+  <word value="поток" count="2">
+    <documents>
+      <document id="7"/>
+      <document id="12"/>
+    </documents>
+  </word>
+  <word value="пофт" count="2">
+    <documents>
+      <document id="8"/>
+    </documents>
+  </word>
+  <word value="правдоподобие" count="1">
+    <documents>
+      <document id="1"/>
+    </documents>
+  </word>
+  <word value="прандтль" count="1">
+    <documents>
+      <document id="12"/>
+    </documents>
+  </word>
+  <word value="предельный" count="1">
+    <documents>
+      <document id="5"/>
+    </documents>
+  </word>
+  <word value="предлагать" count="2">
+    <documents>
+      <document id="1"/>
+      <document id="3"/>
+    </documents>
+  </word>
+  <word value="предлагаться" count="2">
+    <documents>
+      <document id="10"/>
+      <document id="14"/>
+    </documents>
+  </word>
+  <word value="предполагаться" count="1">
+    <documents>
+      <document id="11"/>
+    </documents>
+  </word>
+  <word value="представлять" count="1">
+    <documents>
+      <document id="2"/>
+    </documents>
+  </word>
+  <word value="преобразовываться" count="1">
+    <documents>
+      <document id="12"/>
+    </documents>
+  </word>
+  <word value="препятствие" count="1">
+    <documents>
+      <document id="11"/>
+    </documents>
+  </word>
+  <word value="при" count="8">
+    <documents>
+      <document id="1"/>
+      <document id="8"/>
+      <document id="9"/>
+      <document id="11"/>
+      <document id="12"/>
+    </documents>
+  </word>
+  <word value="приближаться" count="1">
+    <documents>
+      <document id="5"/>
+    </documents>
+  </word>
+  <word value="приеморегистрирующий" count="1">
+    <documents>
+      <document id="1"/>
+    </documents>
+  </word>
+  <word value="применение" count="1">
+    <documents>
+      <document id="2"/>
+    </documents>
+  </word>
+  <word value="присутствие" count="1">
+    <documents>
+      <document id="2"/>
+    </documents>
+  </word>
+  <word value="причина" count="1">
+    <documents>
+      <document id="5"/>
+    </documents>
+  </word>
+  <word value="проведение" count="1">
+    <documents>
+      <document id="2"/>
+    </documents>
+  </word>
+  <word value="проводимость" count="1">
+    <documents>
+      <document id="7"/>
+    </documents>
+  </word>
+  <word value="проводить" count="2">
+    <documents>
+      <document id="10"/>
+      <document id="11"/>
+    </documents>
+  </word>
+  <word value="провожать" count="1">
+    <documents>
+      <document id="2"/>
+    </documents>
+  </word>
+  <word value="программа" count="1">
+    <documents>
+      <document id="4"/>
+    </documents>
+  </word>
+  <word value="проект" count="1">
+    <documents>
+      <document id="15"/>
+    </documents>
+  </word>
+  <word value="проницаемость" count="1">
+    <documents>
+      <document id="10"/>
+    </documents>
+  </word>
+  <word value="пространственноосциллировать" count="1">
+    <documents>
+      <document id="8"/>
+    </documents>
+  </word>
+  <word value="пространственный" count="5">
+    <documents>
+      <document id="3"/>
+      <document id="5"/>
+      <document id="7"/>
+    </documents>
+  </word>
+  <word value="пространствовремя" count="1">
+    <documents>
+      <document id="9"/>
+    </documents>
+  </word>
+  <word value="процесс" count="3">
+    <documents>
+      <document id="2"/>
+      <document id="5"/>
+      <document id="10"/>
+    </documents>
+  </word>
+  <word value="пункт" count="1">
+    <documents>
+      <document id="5"/>
+    </documents>
+  </word>
+  <word value="работа" count="6">
+    <documents>
+      <document id="2"/>
+      <document id="8"/>
+      <document id="12"/>
+      <document id="13"/>
+      <document id="15"/>
+    </documents>
+  </word>
+  <word value="работать" count="1">
+    <documents>
+      <document id="15"/>
+    </documents>
+  </word>
+  <word value="равновесие" count="1">
+    <documents>
+      <document id="11"/>
+    </documents>
+  </word>
+  <word value="радиосигнал" count="1">
+    <documents>
+      <document id="2"/>
+    </documents>
+  </word>
+  <word value="разброс" count="1">
+    <documents>
+      <document id="3"/>
+    </documents>
+  </word>
+  <word value="развертывать" count="1">
+    <documents>
+      <document id="6"/>
+    </documents>
+  </word>
+  <word value="различный" count="1">
+    <documents>
+      <document id="9"/>
+    </documents>
+  </word>
+  <word value="разложение" count="1">
+    <documents>
+      <document id="7"/>
+    </documents>
+  </word>
+  <word value="разрабатывать" count="2">
+    <documents>
+      <document id="4"/>
+      <document id="7"/>
+    </documents>
+  </word>
+  <word value="разрешение" count="1">
+    <documents>
+      <document id="1"/>
+    </documents>
+  </word>
+  <word value="распределение" count="1">
+    <documents>
+      <document id="7"/>
+    </documents>
+  </word>
+  <word value="рассматривать" count="2">
+    <documents>
+      <document id="11"/>
+      <document id="13"/>
+    </documents>
+  </word>
+  <word value="рассматриваться" count="4">
+    <documents>
+      <document id="5"/>
+      <document id="9"/>
+      <document id="10"/>
+      <document id="14"/>
+    </documents>
+  </word>
+  <word value="рассчитать" count="1">
+    <documents>
+      <document id="7"/>
+    </documents>
+  </word>
+  <word value="расход" count="1">
+    <documents>
+      <document id="12"/>
+    </documents>
+  </word>
+  <word value="расчет" count="2">
+    <documents>
+      <document id="6"/>
+      <document id="7"/>
+    </documents>
+  </word>
+  <word value="расширять" count="1">
+    <documents>
+      <document id="2"/>
+    </documents>
+  </word>
+  <word value="регистрировать" count="1">
+    <documents>
+      <document id="1"/>
+    </documents>
+  </word>
+  <word value="режим" count="1">
+    <documents>
+      <document id="2"/>
+    </documents>
+  </word>
+  <word value="результат" count="4">
+    <documents>
+      <document id="5"/>
+      <document id="6"/>
+      <document id="10"/>
+    </documents>
+  </word>
+  <word value="республика" count="1">
+    <documents>
+      <document id="5"/>
+    </documents>
+  </word>
+  <word value="решение" count="5">
+    <documents>
+      <document id="10"/>
+      <document id="11"/>
+      <document id="14"/>
+    </documents>
+  </word>
+  <word value="с" count="8">
+    <documents>
+      <document id="1"/>
+      <document id="5"/>
+      <document id="6"/>
+      <document id="9"/>
+      <document id="10"/>
+      <document id="12"/>
+    </documents>
+  </word>
+  <word value="саров" count="1">
+    <documents>
+      <document id="15"/>
+    </documents>
+  </word>
+  <word value="сахаров" count="1">
+    <documents>
+      <document id="15"/>
+    </documents>
+  </word>
+  <word value="сверхтекучий" count="3">
+    <documents>
+      <document id="9"/>
+    </documents>
+  </word>
+  <word value="свет" count="1">
+    <documents>
+      <document id="8"/>
+    </documents>
+  </word>
+  <word value="свободный" count="1">
+    <documents>
+      <document id="10"/>
+    </documents>
+  </word>
+  <word value="северный" count="1">
+    <documents>
+      <document id="3"/>
+    </documents>
+  </word>
+  <word value="сегнетоэлектрик" count="1">
+    <documents>
+      <document id="8"/>
+    </documents>
+  </word>
+  <word value="семейство" count="1">
+    <documents>
+      <document id="4"/>
+    </documents>
+  </word>
+  <word value="сетчатый" count="1">
+    <documents>
+      <document id="11"/>
+    </documents>
+  </word>
+  <word value="сеть" count="1">
+    <documents>
+      <document id="5"/>
+    </documents>
+  </word>
+  <word value="сжимаемость" count="1">
+    <documents>
+      <document id="13"/>
+    </documents>
+  </word>
+  <word value="сила" count="1">
+    <documents>
+      <document id="11"/>
+    </documents>
+  </word>
+  <word value="система" count="7">
+    <documents>
+      <document id="2"/>
+      <document id="4"/>
+      <document id="12"/>
+      <document id="14"/>
+    </documents>
+  </word>
+  <word value="скольконибудь" count="1">
+    <documents>
+      <document id="1"/>
+    </documents>
+  </word>
+  <word value="скорость" count="2">
+    <documents>
+      <document id="5"/>
+      <document id="12"/>
+    </documents>
+  </word>
+  <word value="слабый" count="1">
+    <documents>
+      <document id="13"/>
+    </documents>
+  </word>
+  <word value="следить" count="1">
+    <documents>
+      <document id="11"/>
+    </documents>
+  </word>
+  <word value="следствие" count="1">
+    <documents>
+      <document id="5"/>
+    </documents>
+  </word>
+  <word value="слой" count="4">
+    <documents>
+      <document id="10"/>
+      <document id="12"/>
+    </documents>
+  </word>
+  <word value="слойка" count="1">
+    <documents>
+      <document id="15"/>
+    </documents>
+  </word>
+  <word value="случай" count="2">
+    <documents>
+      <document id="4"/>
+      <document id="10"/>
+    </documents>
+  </word>
+  <word value="смещать" count="1">
+    <documents>
+      <document id="6"/>
+    </documents>
+  </word>
+  <word value="со" count="3">
+    <documents>
+      <document id="10"/>
+      <document id="13"/>
+    </documents>
+  </word>
+  <word value="советский" count="2">
+    <documents>
+      <document id="15"/>
+    </documents>
+  </word>
+  <word value="совпадать" count="1">
+    <documents>
+      <document id="6"/>
+    </documents>
+  </word>
+  <word value="современный" count="1">
+    <documents>
+      <document id="2"/>
+    </documents>
+  </word>
+  <word value="согласоваться" count="1">
+    <documents>
+      <document id="6"/>
+    </documents>
+  </word>
+  <word value="содержать" count="1">
+    <documents>
+      <document id="13"/>
+    </documents>
+  </word>
+  <word value="создавать" count="3">
+    <documents>
+      <document id="2"/>
+      <document id="4"/>
+      <document id="15"/>
+    </documents>
+  </word>
+  <word value="соответственно" count="1">
+    <documents>
+      <document id="3"/>
+    </documents>
+  </word>
+  <word value="соответствующий" count="1">
+    <documents>
+      <document id="12"/>
+    </documents>
+  </word>
+  <word value="соотношение" count="1">
+    <documents>
+      <document id="13"/>
+    </documents>
+  </word>
+  <word value="сопротивление" count="1">
+    <documents>
+      <document id="12"/>
+    </documents>
+  </word>
+  <word value="сопряженный" count="1">
+    <documents>
+      <document id="12"/>
+    </documents>
+  </word>
+  <word value="состояние" count="1">
+    <documents>
+      <document id="2"/>
+    </documents>
+  </word>
+  <word value="сохранение" count="1">
+    <documents>
+      <document id="12"/>
+    </documents>
+  </word>
+  <word value="спектр" count="1">
+    <documents>
+      <document id="2"/>
+    </documents>
+  </word>
+  <word value="специфический" count="1">
+    <documents>
+      <document id="10"/>
+    </documents>
+  </word>
+  <word value="справедливый" count="1">
+    <documents>
+      <document id="12"/>
+    </documents>
+  </word>
+  <word value="спутниковый" count="3">
+    <documents>
+      <document id="5"/>
+    </documents>
+  </word>
+  <word value="сравнение" count="1">
+    <documents>
+      <document id="10"/>
+    </documents>
+  </word>
+  <word value="средний" count="2">
+    <documents>
+      <document id="3"/>
+    </documents>
+  </word>
+  <word value="средство" count="1">
+    <documents>
+      <document id="2"/>
+    </documents>
+  </word>
+  <word value="ставиться" count="1">
+    <documents>
+      <document id="12"/>
+    </documents>
+  </word>
+  <word value="статья" count="2">
+    <documents>
+      <document id="5"/>
+      <document id="13"/>
+    </documents>
+  </word>
+  <word value="стационарный" count="2">
+    <documents>
+      <document id="10"/>
+      <document id="11"/>
+    </documents>
+  </word>
+  <word value="стратосфера" count="1">
+    <documents>
+      <document id="3"/>
+    </documents>
+  </word>
+  <word value="структура" count="5">
+    <documents>
+      <document id="5"/>
+      <document id="7"/>
+      <document id="8"/>
+    </documents>
+  </word>
+  <word value="струя" count="1">
+    <documents>
+      <document id="10"/>
+    </documents>
+  </word>
+  <word value="существовать" count="1">
+    <documents>
+      <document id="9"/>
+    </documents>
+  </word>
+  <word value="схема" count="2">
+    <documents>
+      <document id="11"/>
+    </documents>
+  </word>
+  <word value="сходимость" count="2">
+    <documents>
+      <document id="11"/>
+    </documents>
+  </word>
+  <word value="также" count="1">
+    <documents>
+      <document id="15"/>
+    </documents>
+  </word>
+  <word value="такой" count="1">
+    <documents>
+      <document id="5"/>
+    </documents>
+  </word>
+  <word value="татарстан" count="1">
+    <documents>
+      <document id="5"/>
+    </documents>
+  </word>
+  <word value="тектонический" count="1">
+    <documents>
+      <document id="5"/>
+    </documents>
+  </word>
+  <word value="текущий" count="1">
+    <documents>
+      <document id="2"/>
+    </documents>
+  </word>
+  <word value="тело" count="2">
+    <documents>
+      <document id="13"/>
+    </documents>
+  </word>
+  <word value="температура" count="1">
+    <documents>
+      <document id="3"/>
+    </documents>
+  </word>
+  <word value="тензор" count="1">
+    <documents>
+      <document id="9"/>
+    </documents>
+  </word>
+  <word value="теоретический" count="1">
+    <documents>
+      <document id="13"/>
+    </documents>
+  </word>
+  <word value="теория" count="1">
+    <documents>
+      <document id="10"/>
+    </documents>
+  </word>
+  <word value="термоядерный" count="1">
+    <documents>
+      <document id="15"/>
+    </documents>
+  </word>
+  <word value="тестирование" count="1">
+    <documents>
+      <document id="4"/>
+    </documents>
+  </word>
+  <word value="технический" count="1">
+    <documents>
+      <document id="2"/>
+    </documents>
+  </word>
+  <word value="течение" count="1">
+    <documents>
+      <document id="15"/>
+    </documents>
+  </word>
+  <word value="тип" count="2">
+    <documents>
+      <document id="12"/>
+      <document id="15"/>
+    </documents>
+  </word>
+  <word value="ток" count="2">
+    <documents>
+      <document id="6"/>
+      <document id="8"/>
+    </documents>
+  </word>
+  <word value="толстый" count="1">
+    <documents>
+      <document id="10"/>
+    </documents>
+  </word>
+  <word value="толщина" count="1">
+    <documents>
+      <document id="10"/>
+    </documents>
+  </word>
+  <word value="точность" count="3">
+    <documents>
+      <document id="5"/>
+      <document id="10"/>
+    </documents>
+  </word>
+  <word value="требоваться" count="1">
+    <documents>
+      <document id="1"/>
+    </documents>
+  </word>
+  <word value="трение" count="1">
+    <documents>
+      <document id="12"/>
+    </documents>
+  </word>
+  <word value="трехмерный" count="2">
+    <documents>
+      <document id="7"/>
+    </documents>
+  </word>
+  <word value="три" count="1">
+    <documents>
+      <document id="15"/>
+    </documents>
+  </word>
+  <word value="тяготение" count="1">
+    <documents>
+      <document id="9"/>
+    </documents>
+  </word>
+  <word value="угол" count="2">
+    <documents>
+      <document id="6"/>
+      <document id="7"/>
+    </documents>
+  </word>
+  <word value="удаваться" count="1">
+    <documents>
+      <document id="10"/>
+    </documents>
+  </word>
+  <word value="удельный" count="1">
+    <documents>
+      <document id="12"/>
+    </documents>
+  </word>
+  <word value="удовлетворительный" count="1">
+    <documents>
+      <document id="10"/>
+    </documents>
+  </word>
+  <word value="удовлетворять" count="1">
+    <documents>
+      <document id="9"/>
+    </documents>
+  </word>
+  <word value="университет" count="1">
+    <documents>
+      <document id="4"/>
+    </documents>
+  </word>
+  <word value="управление" count="3">
+    <documents>
+      <document id="2"/>
+      <document id="12"/>
+    </documents>
+  </word>
+  <word value="уравнение" count="2">
+    <documents>
+      <document id="14"/>
+    </documents>
+  </word>
+  <word value="уровень" count="1">
+    <documents>
+      <document id="3"/>
+    </documents>
+  </word>
+  <word value="условие" count="4">
+    <documents>
+      <document id="9"/>
+      <document id="10"/>
+      <document id="14"/>
+    </documents>
+  </word>
+  <word value="устойчивость" count="1">
+    <documents>
+      <document id="14"/>
+    </documents>
+  </word>
+  <word value="участник" count="1">
+    <documents>
+      <document id="15"/>
+    </documents>
+  </word>
+  <word value="участок" count="2">
+    <documents>
+      <document id="5"/>
+      <document id="12"/>
+    </documents>
+  </word>
+  <word value="учитывать" count="1">
+    <documents>
+      <document id="3"/>
+    </documents>
+  </word>
+  <word value="фаза" count="1">
+    <documents>
+      <document id="1"/>
+    </documents>
+  </word>
+  <word value="форма" count="1">
+    <documents>
+      <document id="7"/>
+    </documents>
+  </word>
+  <word value="формулироваться" count="1">
+    <documents>
+      <document id="10"/>
+    </documents>
+  </word>
+  <word value="формулировка" count="1">
+    <documents>
+      <document id="11"/>
+    </documents>
+  </word>
+  <word value="фотовольтаический" count="1">
+    <documents>
+      <document id="8"/>
+    </documents>
+  </word>
+  <word value="фундаментальный" count="1">
+    <documents>
+      <document id="5"/>
+    </documents>
+  </word>
+  <word value="фурьегармоника" count="1">
+    <documents>
+      <document id="7"/>
+    </documents>
+  </word>
+  <word value="характер" count="1">
+    <documents>
+      <document id="5"/>
+    </documents>
+  </word>
+  <word value="хорошо" count="1">
+    <documents>
+      <document id="6"/>
+    </documents>
+  </word>
+  <word value="центр" count="1">
+    <documents>
+      <document id="9"/>
+    </documents>
+  </word>
+  <word value="центральный" count="1">
+    <documents>
+      <document id="5"/>
+    </documents>
+  </word>
+  <word value="цикл" count="1">
+    <documents>
+      <document id="13"/>
+    </documents>
+  </word>
+  <word value="циклон" count="1">
+    <documents>
+      <document id="4"/>
+    </documents>
+  </word>
+  <word value="частный" count="1">
+    <documents>
+      <document id="14"/>
+    </documents>
+  </word>
+  <word value="часть" count="2">
+    <documents>
+      <document id="5"/>
+      <document id="13"/>
+    </documents>
+  </word>
+  <word value="чем" count="1">
+    <documents>
+      <document id="4"/>
+    </documents>
+  </word>
+  <word value="через" count="1">
+    <documents>
+      <document id="12"/>
+    </documents>
+  </word>
+  <word value="четыре" count="1">
+    <documents>
+      <document id="15"/>
+    </documents>
+  </word>
+  <word value="численноаналитический" count="1">
+    <documents>
+      <document id="10"/>
+    </documents>
+  </word>
+  <word value="численный" count="3">
+    <documents>
+      <document id="6"/>
+      <document id="10"/>
+      <document id="13"/>
+    </documents>
+  </word>
+  <word value="число" count="1">
+    <documents>
+      <document id="12"/>
+    </documents>
+  </word>
+  <word value="что" count="9">
+    <documents>
+      <document id="1"/>
+      <document id="2"/>
+      <document id="4"/>
+      <document id="6"/>
+      <document id="9"/>
+      <document id="11"/>
+      <document id="12"/>
+    </documents>
+  </word>
+  <word value="электрический" count="1">
+    <documents>
+      <document id="6"/>
+    </documents>
+  </word>
+  <word value="электромагнитный" count="5">
+    <documents>
+      <document id="6"/>
+      <document id="7"/>
+    </documents>
+  </word>
+  <word value="эмпирический" count="1">
+    <documents>
+      <document id="3"/>
+    </documents>
+  </word>
+  <word value="энергииимпульс" count="1">
+    <documents>
+      <document id="9"/>
+    </documents>
+  </word>
+  <word value="энергия" count="1">
+    <documents>
+      <document id="7"/>
+    </documents>
+  </word>
+  <word value="этап" count="1">
+    <documents>
+      <document id="15"/>
+    </documents>
+  </word>
+  <word value="это" count="2">
+    <documents>
+      <document id="1"/>
+      <document id="5"/>
+    </documents>
+  </word>
+  <word value="этот" count="2">
+    <documents>
+      <document id="15"/>
+    </documents>
+  </word>
+  <word value="являться" count="2">
+    <documents>
+      <document id="5"/>
+      <document id="13"/>
+    </documents>
+  </word>
+  <word value="явный" count="1">
+    <documents>
+      <document id="6"/>
+    </documents>
+  </word>
+</Math-Net>
