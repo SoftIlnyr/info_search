@@ -1,312 +1,312 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <Math-Net>
-  <word value="null" count="1">
+  <word value="null" total_count="1" doc_count="1">
     <documents>
       <document id="16"/>
     </documents>
   </word>
-  <word value="август" count="1">
+  <word value="август" total_count="1" doc_count="1">
     <documents>
       <document id="15"/>
     </documents>
   </word>
-  <word value="автоматическ" count="4">
+  <word value="автоматическ" total_count="4" doc_count="3">
     <documents>
       <document id="2"/>
       <document id="4"/>
       <document id="12"/>
     </documents>
   </word>
-  <word value="алгебр" count="1">
+  <word value="алгебр" total_count="1" doc_count="1">
     <documents>
       <document id="9"/>
     </documents>
   </word>
-  <word value="алгоритм" count="2">
+  <word value="алгоритм" total_count="2" doc_count="2">
     <documents>
       <document id="2"/>
       <document id="4"/>
     </documents>
   </word>
-  <word value="анализ" count="2">
+  <word value="анализ" total_count="2" doc_count="2">
     <documents>
       <document id="5"/>
       <document id="10"/>
     </documents>
   </word>
-  <word value="аналогичн" count="1">
+  <word value="аналогичн" total_count="1" doc_count="1">
     <documents>
       <document id="10"/>
     </documents>
   </word>
-  <word value="аппаратур" count="2">
+  <word value="аппаратур" total_count="2" doc_count="1">
     <documents>
       <document id="1"/>
     </documents>
   </word>
-  <word value="аппроксимац" count="1">
+  <word value="аппроксимац" total_count="1" doc_count="1">
     <documents>
       <document id="11"/>
     </documents>
   </word>
-  <word value="асимметричн" count="2">
+  <word value="асимметричн" total_count="2" doc_count="1">
     <documents>
       <document id="7"/>
     </documents>
   </word>
-  <word value="асимптотическ" count="1">
+  <word value="асимптотическ" total_count="1" doc_count="1">
     <documents>
       <document id="10"/>
     </documents>
   </word>
-  <word value="аспект" count="1">
+  <word value="аспект" total_count="1" doc_count="1">
     <documents>
       <document id="13"/>
     </documents>
   </word>
-  <word value="атмосфер" count="2">
+  <word value="атмосфер" total_count="2" doc_count="1">
     <documents>
       <document id="5"/>
     </documents>
   </word>
-  <word value="атмосферн" count="1">
+  <word value="атмосферн" total_count="1" doc_count="1">
     <documents>
       <document id="5"/>
     </documents>
   </word>
-  <word value="атомн" count="1">
+  <word value="атомн" total_count="1" doc_count="1">
     <documents>
       <document id="15"/>
     </documents>
   </word>
-  <word value="без" count="1">
+  <word value="без" total_count="1" doc_count="1">
     <documents>
       <document id="2"/>
     </documents>
   </word>
-  <word value="бол" count="2">
+  <word value="бол" total_count="2" doc_count="2">
     <documents>
       <document id="4"/>
       <document id="15"/>
     </documents>
   </word>
-  <word value="больш" count="1">
+  <word value="больш" total_count="1" doc_count="1">
     <documents>
       <document id="10"/>
     </documents>
   </word>
-  <word value="бомб" count="2">
+  <word value="бомб" total_count="2" doc_count="1">
     <documents>
       <document id="15"/>
     </documents>
   </word>
-  <word value="был" count="4">
+  <word value="был" total_count="4" doc_count="2">
     <documents>
       <document id="4"/>
       <document id="15"/>
     </documents>
   </word>
-  <word value="быт" count="1">
+  <word value="быт" total_count="1" doc_count="1">
     <documents>
       <document id="5"/>
     </documents>
   </word>
-  <word value="важн" count="2">
+  <word value="важн" total_count="2" doc_count="2">
     <documents>
       <document id="1"/>
       <document id="12"/>
     </documents>
   </word>
-  <word value="вариац" count="1">
+  <word value="вариац" total_count="1" doc_count="1">
     <documents>
       <document id="5"/>
     </documents>
   </word>
-  <word value="вариацион" count="1">
+  <word value="вариацион" total_count="1" doc_count="1">
     <documents>
       <document id="12"/>
     </documents>
   </word>
-  <word value="вдол" count="1">
+  <word value="вдол" total_count="1" doc_count="1">
     <documents>
       <document id="9"/>
     </documents>
   </word>
-  <word value="вектор" count="1">
+  <word value="вектор" total_count="1" doc_count="1">
     <documents>
       <document id="9"/>
     </documents>
   </word>
-  <word value="векторн" count="1">
+  <word value="векторн" total_count="1" doc_count="1">
     <documents>
       <document id="9"/>
     </documents>
   </word>
-  <word value="вертикальн" count="2">
+  <word value="вертикальн" total_count="2" doc_count="2">
     <documents>
       <document id="4"/>
       <document id="5"/>
     </documents>
   </word>
-  <word value="ветр" count="1">
+  <word value="ветр" total_count="1" doc_count="1">
     <documents>
       <document id="3"/>
     </documents>
   </word>
-  <word value="виндуктивносвяз" count="1">
+  <word value="виндуктивносвяз" total_count="1" doc_count="1">
     <documents>
       <document id="7"/>
     </documents>
   </word>
-  <word value="винт" count="2">
+  <word value="винт" total_count="2" doc_count="1">
     <documents>
       <document id="6"/>
     </documents>
   </word>
-  <word value="внешн" count="1">
+  <word value="внешн" total_count="1" doc_count="1">
     <documents>
       <document id="12"/>
     </documents>
   </word>
-  <word value="вовлеч" count="1">
+  <word value="вовлеч" total_count="1" doc_count="1">
     <documents>
       <document id="15"/>
     </documents>
   </word>
-  <word value="возможн" count="4">
+  <word value="возможн" total_count="4" doc_count="3">
     <documents>
       <document id="2"/>
       <document id="5"/>
       <document id="9"/>
     </documents>
   </word>
-  <word value="возник" count="1">
+  <word value="возник" total_count="1" doc_count="1">
     <documents>
       <document id="11"/>
     </documents>
   </word>
-  <word value="волн" count="2">
+  <word value="волн" total_count="2" doc_count="2">
     <documents>
       <document id="2"/>
       <document id="5"/>
     </documents>
   </word>
-  <word value="вплот" count="1">
+  <word value="вплот" total_count="1" doc_count="1">
     <documents>
       <document id="1"/>
     </documents>
   </word>
-  <word value="вразомкнут" count="1">
+  <word value="вразомкнут" total_count="1" doc_count="1">
     <documents>
       <document id="6"/>
     </documents>
   </word>
-  <word value="врем" count="4">
+  <word value="врем" total_count="4" doc_count="2">
     <documents>
       <document id="3"/>
       <document id="5"/>
     </documents>
   </word>
-  <word value="все" count="1">
+  <word value="все" total_count="1" doc_count="1">
     <documents>
       <document id="9"/>
     </documents>
   </word>
-  <word value="встат" count="1">
+  <word value="встат" total_count="1" doc_count="1">
     <documents>
       <document id="4"/>
     </documents>
   </word>
-  <word value="втор" count="2">
+  <word value="втор" total_count="2" doc_count="2">
     <documents>
       <document id="13"/>
       <document id="14"/>
     </documents>
   </word>
-  <word value="выдел" count="1">
+  <word value="выдел" total_count="1" doc_count="1">
     <documents>
       <document id="9"/>
     </documents>
   </word>
-  <word value="выраж" count="1">
+  <word value="выраж" total_count="1" doc_count="1">
     <documents>
       <document id="6"/>
     </documents>
   </word>
-  <word value="высокоточн" count="1">
+  <word value="высокоточн" total_count="1" doc_count="1">
     <documents>
       <document id="5"/>
     </documents>
   </word>
-  <word value="высот" count="1">
+  <word value="высот" total_count="1" doc_count="1">
     <documents>
       <document id="3"/>
     </documents>
   </word>
-  <word value="высотн" count="1">
+  <word value="высотн" total_count="1" doc_count="1">
     <documents>
       <document id="1"/>
     </documents>
   </word>
-  <word value="выявл" count="1">
+  <word value="выявл" total_count="1" doc_count="1">
     <documents>
       <document id="5"/>
     </documents>
   </word>
-  <word value="газ" count="1">
+  <word value="газ" total_count="1" doc_count="1">
     <documents>
       <document id="12"/>
     </documents>
   </word>
-  <word value="геодезическ" count="2">
+  <word value="геодезическ" total_count="2" doc_count="1">
     <documents>
       <document id="5"/>
     </documents>
   </word>
-  <word value="геометр" count="2">
+  <word value="геометр" total_count="2" doc_count="2">
     <documents>
       <document id="6"/>
       <document id="9"/>
     </documents>
   </word>
-  <word value="геометрическ" count="1">
+  <word value="геометрическ" total_count="1" doc_count="1">
     <documents>
       <document id="6"/>
     </documents>
   </word>
-  <word value="геопотенциальн" count="1">
+  <word value="геопотенциальн" total_count="1" doc_count="1">
     <documents>
       <document id="3"/>
     </documents>
   </word>
-  <word value="гиперупруг" count="2">
+  <word value="гиперупруг" total_count="2" doc_count="1">
     <documents>
       <document id="13"/>
     </documents>
   </word>
-  <word value="государств" count="1">
+  <word value="государств" total_count="1" doc_count="1">
     <documents>
       <document id="4"/>
     </documents>
   </word>
-  <word value="гпапримерн" count="1">
+  <word value="гпапримерн" total_count="1" doc_count="1">
     <documents>
       <document id="3"/>
     </documents>
   </word>
-  <word value="границ" count="4">
+  <word value="границ" total_count="4" doc_count="2">
     <documents>
       <document id="10"/>
       <document id="12"/>
     </documents>
   </word>
-  <word value="групп" count="4">
+  <word value="групп" total_count="4" doc_count="2">
     <documents>
       <document id="1"/>
       <document id="9"/>
     </documents>
   </word>
-  <word value="дан" count="8">
+  <word value="дан" total_count="8" doc_count="5">
     <documents>
       <document id="2"/>
       <document id="3"/>
@@ -315,49 +315,49 @@
       <document id="12"/>
     </documents>
   </word>
-  <word value="дают" count="1">
+  <word value="дают" total_count="1" doc_count="1">
     <documents>
       <document id="5"/>
     </documents>
   </word>
-  <word value="движ" count="6">
+  <word value="движ" total_count="6" doc_count="2">
     <documents>
       <document id="5"/>
       <document id="9"/>
     </documents>
   </word>
-  <word value="двум" count="1">
+  <word value="двум" total_count="1" doc_count="1">
     <documents>
       <document id="12"/>
     </documents>
   </word>
-  <word value="двуслойн" count="1">
+  <word value="двуслойн" total_count="1" doc_count="1">
     <documents>
       <document id="10"/>
     </documents>
   </word>
-  <word value="деформац" count="1">
+  <word value="деформац" total_count="1" doc_count="1">
     <documents>
       <document id="13"/>
     </documents>
   </word>
-  <word value="диапазон" count="1">
+  <word value="диапазон" total_count="1" doc_count="1">
     <documents>
       <document id="10"/>
     </documents>
   </word>
-  <word value="динамик" count="1">
+  <word value="динамик" total_count="1" doc_count="1">
     <documents>
       <document id="7"/>
     </documents>
   </word>
-  <word value="дифференциальн" count="3">
+  <word value="дифференциальн" total_count="3" doc_count="2">
     <documents>
       <document id="5"/>
       <document id="14"/>
     </documents>
   </word>
-  <word value="для" count="10">
+  <word value="для" total_count="10" doc_count="8">
     <documents>
       <document id="2"/>
       <document id="3"/>
@@ -369,88 +369,88 @@
       <document id="13"/>
     </documents>
   </word>
-  <word value="до" count="3">
+  <word value="до" total_count="3" doc_count="3">
     <documents>
       <document id="1"/>
       <document id="2"/>
       <document id="3"/>
     </documents>
   </word>
-  <word value="доказательств" count="1">
+  <word value="доказательств" total_count="1" doc_count="1">
     <documents>
       <document id="11"/>
     </documents>
   </word>
-  <word value="долгопериодн" count="1">
+  <word value="долгопериодн" total_count="1" doc_count="1">
     <documents>
       <document id="2"/>
     </documents>
   </word>
-  <word value="долгосрочн" count="1">
+  <word value="долгосрочн" total_count="1" doc_count="1">
     <documents>
       <document id="2"/>
     </documents>
   </word>
-  <word value="доплеровск" count="1">
+  <word value="доплеровск" total_count="1" doc_count="1">
     <documents>
       <document id="2"/>
     </documents>
   </word>
-  <word value="допуск" count="1">
+  <word value="допуск" total_count="1" doc_count="1">
     <documents>
       <document id="9"/>
     </documents>
   </word>
-  <word value="е" count="1">
+  <word value="е" total_count="1" doc_count="1">
     <documents>
       <document id="10"/>
     </documents>
   </word>
-  <word value="ег" count="2">
+  <word value="ег" total_count="2" doc_count="2">
     <documents>
       <document id="6"/>
       <document id="10"/>
     </documents>
   </word>
-  <word value="единств" count="1">
+  <word value="единств" total_count="1" doc_count="1">
     <documents>
       <document id="9"/>
     </documents>
   </word>
-  <word value="ежедневн" count="1">
+  <word value="ежедневн" total_count="1" doc_count="1">
     <documents>
       <document id="3"/>
     </documents>
   </word>
-  <word value="екзавойск" count="2">
+  <word value="екзавойск" total_count="2" doc_count="1">
     <documents>
       <document id="15"/>
     </documents>
   </word>
-  <word value="жидкост" count="4">
+  <word value="жидкост" total_count="4" doc_count="2">
     <documents>
       <document id="9"/>
       <document id="10"/>
     </documents>
   </word>
-  <word value="за" count="1">
+  <word value="за" total_count="1" doc_count="1">
     <documents>
       <document id="3"/>
     </documents>
   </word>
-  <word value="завис" count="2">
+  <word value="завис" total_count="2" doc_count="2">
     <documents>
       <document id="6"/>
       <document id="8"/>
     </documents>
   </word>
-  <word value="зад" count="3">
+  <word value="зад" total_count="3" doc_count="2">
     <documents>
       <document id="12"/>
       <document id="14"/>
     </documents>
   </word>
-  <word value="задач" count="9">
+  <word value="задач" total_count="9" doc_count="4">
     <documents>
       <document id="10"/>
       <document id="11"/>
@@ -458,57 +458,57 @@
       <document id="14"/>
     </documents>
   </word>
-  <word value="задержк" count="1">
+  <word value="задержк" total_count="1" doc_count="1">
     <documents>
       <document id="1"/>
     </documents>
   </word>
-  <word value="закон" count="1">
+  <word value="закон" total_count="1" doc_count="1">
     <documents>
       <document id="12"/>
     </documents>
   </word>
-  <word value="замыка" count="1">
+  <word value="замыка" total_count="1" doc_count="1">
     <documents>
       <document id="6"/>
     </documents>
   </word>
-  <word value="земл" count="2">
+  <word value="земл" total_count="2" doc_count="2">
     <documents>
       <document id="2"/>
       <document id="3"/>
     </documents>
   </word>
-  <word value="земн" count="1">
+  <word value="земн" total_count="1" doc_count="1">
     <documents>
       <document id="5"/>
     </documents>
   </word>
-  <word value="знач" count="2">
+  <word value="знач" total_count="2" doc_count="2">
     <documents>
       <document id="3"/>
       <document id="4"/>
     </documents>
   </word>
-  <word value="значительн" count="2">
+  <word value="значительн" total_count="2" doc_count="2">
     <documents>
       <document id="1"/>
       <document id="7"/>
     </documents>
   </word>
-  <word value="зональн" count="3">
+  <word value="зональн" total_count="3" doc_count="1">
     <documents>
       <document id="3"/>
     </documents>
   </word>
-  <word value="зондирова" count="3">
+  <word value="зондирова" total_count="3" doc_count="3">
     <documents>
       <document id="1"/>
       <document id="2"/>
       <document id="4"/>
     </documents>
   </word>
-  <word value="и" count="22">
+  <word value="и" total_count="22" doc_count="13">
     <documents>
       <document id="2"/>
       <document id="3"/>
@@ -525,22 +525,22 @@
       <document id="15"/>
     </documents>
   </word>
-  <word value="идеальн" count="1">
+  <word value="идеальн" total_count="1" doc_count="1">
     <documents>
       <document id="10"/>
     </documents>
   </word>
-  <word value="известн" count="1">
+  <word value="известн" total_count="1" doc_count="1">
     <documents>
       <document id="10"/>
     </documents>
   </word>
-  <word value="излож" count="1">
+  <word value="излож" total_count="1" doc_count="1">
     <documents>
       <document id="13"/>
     </documents>
   </word>
-  <word value="измен" count="4">
+  <word value="измен" total_count="4" doc_count="4">
     <documents>
       <document id="1"/>
       <document id="5"/>
@@ -548,329 +548,329 @@
       <document id="10"/>
     </documents>
   </word>
-  <word value="изменч" count="3">
+  <word value="изменч" total_count="3" doc_count="2">
     <documents>
       <document id="3"/>
       <document id="5"/>
     </documents>
   </word>
-  <word value="изменчивостифундаментальн" count="1">
+  <word value="изменчивостифундаментальн" total_count="1" doc_count="1">
     <documents>
       <document id="3"/>
     </documents>
   </word>
-  <word value="измер" count="2">
+  <word value="измер" total_count="2" doc_count="2">
     <documents>
       <document id="2"/>
       <document id="5"/>
     </documents>
   </word>
-  <word value="измерительн" count="1">
+  <word value="измерительн" total_count="1" doc_count="1">
     <documents>
       <document id="2"/>
     </documents>
   </word>
-  <word value="изобарическ" count="1">
+  <word value="изобарическ" total_count="1" doc_count="1">
     <documents>
       <document id="3"/>
     </documents>
   </word>
-  <word value="изометр" count="1">
+  <word value="изометр" total_count="1" doc_count="1">
     <documents>
       <document id="9"/>
     </documents>
   </word>
-  <word value="изотропн" count="1">
+  <word value="изотропн" total_count="1" doc_count="1">
     <documents>
       <document id="13"/>
     </documents>
   </word>
-  <word value="изуч" count="1">
+  <word value="изуч" total_count="1" doc_count="1">
     <documents>
       <document id="5"/>
     </documents>
   </word>
-  <word value="ил" count="1">
+  <word value="ил" total_count="1" doc_count="1">
     <documents>
       <document id="12"/>
     </documents>
   </word>
-  <word value="имеридиональн" count="1">
+  <word value="имеридиональн" total_count="1" doc_count="1">
     <documents>
       <document id="3"/>
     </documents>
   </word>
-  <word value="индуктивносвяз" count="2">
+  <word value="индуктивносвяз" total_count="2" doc_count="1">
     <documents>
       <document id="7"/>
     </documents>
   </word>
-  <word value="индуктор" count="3">
+  <word value="индуктор" total_count="3" doc_count="2">
     <documents>
       <document id="6"/>
       <document id="7"/>
     </documents>
   </word>
-  <word value="интегр" count="1">
+  <word value="интегр" total_count="1" doc_count="1">
     <documents>
       <document id="12"/>
     </documents>
   </word>
-  <word value="интегральн" count="2">
+  <word value="интегральн" total_count="2" doc_count="2">
     <documents>
       <document id="12"/>
       <document id="14"/>
     </documents>
   </word>
-  <word value="интерпретац" count="1">
+  <word value="интерпретац" total_count="1" doc_count="1">
     <documents>
       <document id="4"/>
     </documents>
   </word>
-  <word value="информац" count="1">
+  <word value="информац" total_count="1" doc_count="1">
     <documents>
       <document id="2"/>
     </documents>
   </word>
-  <word value="ионограмм" count="3">
+  <word value="ионограмм" total_count="3" doc_count="1">
     <documents>
       <document id="4"/>
     </documents>
   </word>
-  <word value="ионозонд" count="2">
+  <word value="ионозонд" total_count="2" doc_count="2">
     <documents>
       <document id="1"/>
       <document id="4"/>
     </documents>
   </word>
-  <word value="ионосфер" count="3">
+  <word value="ионосфер" total_count="3" doc_count="1">
     <documents>
       <document id="2"/>
     </documents>
   </word>
-  <word value="ионосферн" count="1">
+  <word value="ионосферн" total_count="1" doc_count="1">
     <documents>
       <document id="4"/>
     </documents>
   </word>
-  <word value="иотносительн" count="1">
+  <word value="иотносительн" total_count="1" doc_count="1">
     <documents>
       <document id="3"/>
     </documents>
   </word>
-  <word value="использ" count="1">
+  <word value="использ" total_count="1" doc_count="1">
     <documents>
       <document id="12"/>
     </documents>
   </word>
-  <word value="использовалисьдисперс" count="1">
+  <word value="использовалисьдисперс" total_count="1" doc_count="1">
     <documents>
       <document id="3"/>
     </documents>
   </word>
-  <word value="испыт" count="1">
+  <word value="испыт" total_count="1" doc_count="1">
     <documents>
       <document id="15"/>
     </documents>
   </word>
-  <word value="исследов" count="3">
+  <word value="исследов" total_count="3" doc_count="2">
     <documents>
       <document id="8"/>
       <document id="9"/>
     </documents>
   </word>
-  <word value="исследова" count="3">
+  <word value="исследова" total_count="3" doc_count="3">
     <documents>
       <document id="2"/>
       <document id="11"/>
       <document id="13"/>
     </documents>
   </word>
-  <word value="итерацион" count="2">
+  <word value="итерацион" total_count="2" doc_count="2">
     <documents>
       <document id="10"/>
       <document id="11"/>
     </documents>
   </word>
-  <word value="их" count="1">
+  <word value="их" total_count="1" doc_count="1">
     <documents>
       <document id="10"/>
     </documents>
   </word>
-  <word value="июжн" count="1">
+  <word value="июжн" total_count="1" doc_count="1">
     <documents>
       <document id="3"/>
     </documents>
   </word>
-  <word value="казанск" count="1">
+  <word value="казанск" total_count="1" doc_count="1">
     <documents>
       <document id="4"/>
     </documents>
   </word>
-  <word value="как" count="1">
+  <word value="как" total_count="1" doc_count="1">
     <documents>
       <document id="10"/>
     </documents>
   </word>
-  <word value="качеств" count="2">
+  <word value="качеств" total_count="2" doc_count="2">
     <documents>
       <document id="3"/>
       <document id="12"/>
     </documents>
   </word>
-  <word value="квазивариацион" count="1">
+  <word value="квазивариацион" total_count="1" doc_count="1">
     <documents>
       <document id="11"/>
     </documents>
   </word>
-  <word value="киллинг" count="2">
+  <word value="киллинг" total_count="2" doc_count="1">
     <documents>
       <document id="9"/>
     </documents>
   </word>
-  <word value="класс" count="1">
+  <word value="класс" total_count="1" doc_count="1">
     <documents>
       <document id="12"/>
     </documents>
   </word>
-  <word value="комплекс" count="1">
+  <word value="комплекс" total_count="1" doc_count="1">
     <documents>
       <document id="2"/>
     </documents>
   </word>
-  <word value="компонент" count="1">
+  <word value="компонент" total_count="1" doc_count="1">
     <documents>
       <document id="9"/>
     </documents>
   </word>
-  <word value="конечн" count="1">
+  <word value="конечн" total_count="1" doc_count="1">
     <documents>
       <document id="13"/>
     </documents>
   </word>
-  <word value="конечномерн" count="1">
+  <word value="конечномерн" total_count="1" doc_count="1">
     <documents>
       <document id="11"/>
     </documents>
   </word>
-  <word value="конечноэлементн" count="2">
+  <word value="конечноэлементн" total_count="2" doc_count="1">
     <documents>
       <document id="11"/>
     </documents>
   </word>
-  <word value="контраст" count="1">
+  <word value="контраст" total_count="1" doc_count="1">
     <documents>
       <document id="10"/>
     </documents>
   </word>
-  <word value="конфигурац" count="1">
+  <word value="конфигурац" total_count="1" doc_count="1">
     <documents>
       <document id="10"/>
     </documents>
   </word>
-  <word value="координат" count="2">
+  <word value="координат" total_count="2" doc_count="1">
     <documents>
       <document id="5"/>
     </documents>
   </word>
-  <word value="кор" count="1">
+  <word value="кор" total_count="1" doc_count="1">
     <documents>
       <document id="5"/>
     </documents>
   </word>
-  <word value="корректн" count="1">
+  <word value="корректн" total_count="1" doc_count="1">
     <documents>
       <document id="4"/>
     </documents>
   </word>
-  <word value="котор" count="3">
+  <word value="котор" total_count="3" doc_count="3">
     <documents>
       <document id="5"/>
       <document id="6"/>
       <document id="9"/>
     </documents>
   </word>
-  <word value="которымвыдел" count="1">
+  <word value="которымвыдел" total_count="1" doc_count="1">
     <documents>
       <document id="3"/>
     </documents>
   </word>
-  <word value="левчив" count="1">
+  <word value="левчив" total_count="1" doc_count="1">
     <documents>
       <document id="10"/>
     </documents>
   </word>
-  <word value="лет" count="1">
+  <word value="лет" total_count="1" doc_count="1">
     <documents>
       <document id="15"/>
     </documents>
   </word>
-  <word value="ли" count="1">
+  <word value="ли" total_count="1" doc_count="1">
     <documents>
       <document id="9"/>
     </documents>
   </word>
-  <word value="люб" count="2">
+  <word value="люб" total_count="2" doc_count="1">
     <documents>
       <document id="12"/>
     </documents>
   </word>
-  <word value="магнитн" count="1">
+  <word value="магнитн" total_count="1" doc_count="1">
     <documents>
       <document id="6"/>
     </documents>
   </word>
-  <word value="майер" count="1">
+  <word value="майер" total_count="1" doc_count="1">
     <documents>
       <document id="12"/>
     </documents>
   </word>
-  <word value="малопрониц" count="1">
+  <word value="малопрониц" total_count="1" doc_count="1">
     <documents>
       <document id="10"/>
     </documents>
   </word>
-  <word value="масс" count="1">
+  <word value="масс" total_count="1" doc_count="1">
     <documents>
       <document id="11"/>
     </documents>
   </word>
-  <word value="математическ" count="1">
+  <word value="математическ" total_count="1" doc_count="1">
     <documents>
       <document id="11"/>
     </documents>
   </word>
-  <word value="матер" count="1">
+  <word value="матер" total_count="1" doc_count="1">
     <documents>
       <document id="10"/>
     </documents>
   </word>
-  <word value="материа" count="2">
+  <word value="материа" total_count="2" doc_count="1">
     <documents>
       <document id="13"/>
     </documents>
   </word>
-  <word value="межфазн" count="1">
+  <word value="межфазн" total_count="1" doc_count="1">
     <documents>
       <document id="10"/>
     </documents>
   </word>
-  <word value="мезосферывсл" count="1">
+  <word value="мезосферывсл" total_count="1" doc_count="1">
     <documents>
       <document id="3"/>
     </documents>
   </word>
-  <word value="мер" count="1">
+  <word value="мер" total_count="1" doc_count="1">
     <documents>
       <document id="3"/>
     </documents>
   </word>
-  <word value="месяц" count="1">
+  <word value="месяц" total_count="1" doc_count="1">
     <documents>
       <document id="2"/>
     </documents>
   </word>
-  <word value="метод" count="9">
+  <word value="метод" total_count="9" doc_count="6">
     <documents>
       <document id="1"/>
       <document id="5"/>
@@ -880,74 +880,74 @@
       <document id="14"/>
     </documents>
   </word>
-  <word value="методик" count="1">
+  <word value="методик" total_count="1" doc_count="1">
     <documents>
       <document id="1"/>
     </documents>
   </word>
-  <word value="миллиметр" count="1">
+  <word value="миллиметр" total_count="1" doc_count="1">
     <documents>
       <document id="5"/>
     </documents>
   </word>
-  <word value="минимизац" count="1">
+  <word value="минимизац" total_count="1" doc_count="1">
     <documents>
       <document id="12"/>
     </documents>
   </word>
-  <word value="многообраз" count="1">
+  <word value="многообраз" total_count="1" doc_count="1">
     <documents>
       <document id="14"/>
     </documents>
   </word>
-  <word value="многочастотн" count="1">
+  <word value="многочастотн" total_count="1" doc_count="1">
     <documents>
       <document id="1"/>
     </documents>
   </word>
-  <word value="множеств" count="1">
+  <word value="множеств" total_count="1" doc_count="1">
     <documents>
       <document id="14"/>
     </documents>
   </word>
-  <word value="модел" count="2">
+  <word value="модел" total_count="2" doc_count="1">
     <documents>
       <document id="3"/>
     </documents>
   </word>
-  <word value="модернизац" count="1">
+  <word value="модернизац" total_count="1" doc_count="1">
     <documents>
       <document id="2"/>
     </documents>
   </word>
-  <word value="может" count="2">
+  <word value="может" total_count="2" doc_count="2">
     <documents>
       <document id="4"/>
       <document id="5"/>
     </documents>
   </word>
-  <word value="можн" count="1">
+  <word value="можн" total_count="1" doc_count="1">
     <documents>
       <document id="12"/>
     </documents>
   </word>
-  <word value="мониторинг" count="2">
+  <word value="мониторинг" total_count="2" doc_count="2">
     <documents>
       <document id="2"/>
       <document id="5"/>
     </documents>
   </word>
-  <word value="мощност" count="1">
+  <word value="мощност" total_count="1" doc_count="1">
     <documents>
       <document id="12"/>
     </documents>
   </word>
-  <word value="мягк" count="1">
+  <word value="мягк" total_count="1" doc_count="1">
     <documents>
       <document id="11"/>
     </documents>
   </word>
-  <word value="на" count="9">
+  <word value="на" total_count="9" doc_count="7">
     <documents>
       <document id="2"/>
       <document id="3"/>
@@ -958,208 +958,208 @@
       <document id="14"/>
     </documents>
   </word>
-  <word value="наблюд" count="1">
+  <word value="наблюд" total_count="1" doc_count="1">
     <documents>
       <document id="5"/>
     </documents>
   </word>
-  <word value="нагрузк" count="1">
+  <word value="нагрузк" total_count="1" doc_count="1">
     <documents>
       <document id="11"/>
     </documents>
   </word>
-  <word value="надежн" count="1">
+  <word value="надежн" total_count="1" doc_count="1">
     <documents>
       <document id="2"/>
     </documents>
   </word>
-  <word value="наибольш" count="1">
+  <word value="наибольш" total_count="1" doc_count="1">
     <documents>
       <document id="1"/>
     </documents>
   </word>
-  <word value="наклон" count="1">
+  <word value="наклон" total_count="1" doc_count="1">
     <documents>
       <document id="2"/>
     </documents>
   </word>
-  <word value="налич" count="1">
+  <word value="налич" total_count="1" doc_count="1">
     <documents>
       <document id="11"/>
     </documents>
   </word>
-  <word value="направл" count="4">
+  <word value="направл" total_count="4" doc_count="2">
     <documents>
       <document id="8"/>
       <document id="9"/>
     </documents>
   </word>
-  <word value="насто" count="2">
+  <word value="насто" total_count="2" doc_count="2">
     <documents>
       <document id="8"/>
       <document id="13"/>
     </documents>
   </word>
-  <word value="насыщ" count="1">
+  <word value="насыщ" total_count="1" doc_count="1">
     <documents>
       <document id="10"/>
     </documents>
   </word>
-  <word value="начальн" count="1">
+  <word value="начальн" total_count="1" doc_count="1">
     <documents>
       <document id="15"/>
     </documents>
   </word>
-  <word value="не" count="2">
+  <word value="не" total_count="2" doc_count="2">
     <documents>
       <document id="1"/>
       <document id="6"/>
     </documents>
   </word>
-  <word value="неавтономн" count="2">
+  <word value="неавтономн" total_count="2" doc_count="1">
     <documents>
       <document id="14"/>
     </documents>
   </word>
-  <word value="независ" count="1">
+  <word value="независ" total_count="1" doc_count="1">
     <documents>
       <document id="12"/>
     </documents>
   </word>
-  <word value="некотор" count="1">
+  <word value="некотор" total_count="1" doc_count="1">
     <documents>
       <document id="10"/>
     </documents>
   </word>
-  <word value="непрерывн" count="1">
+  <word value="непрерывн" total_count="1" doc_count="1">
     <documents>
       <document id="2"/>
     </documents>
   </word>
-  <word value="неравенств" count="1">
+  <word value="неравенств" total_count="1" doc_count="1">
     <documents>
       <document id="11"/>
     </documents>
   </word>
-  <word value="нескольк" count="1">
+  <word value="нескольк" total_count="1" doc_count="1">
     <documents>
       <document id="2"/>
     </documents>
   </word>
-  <word value="нижн" count="1">
+  <word value="нижн" total_count="1" doc_count="1">
     <documents>
       <document id="3"/>
     </documents>
   </word>
-  <word value="нов" count="1">
+  <word value="нов" total_count="1" doc_count="1">
     <documents>
       <document id="7"/>
     </documents>
   </word>
-  <word value="нормальн" count="2">
+  <word value="нормальн" total_count="2" doc_count="1">
     <documents>
       <document id="9"/>
     </documents>
   </word>
-  <word value="нос" count="1">
+  <word value="нос" total_count="1" doc_count="1">
     <documents>
       <document id="5"/>
     </documents>
   </word>
-  <word value="о" count="2">
+  <word value="о" total_count="2" doc_count="2">
     <documents>
       <document id="3"/>
       <document id="6"/>
     </documents>
   </word>
-  <word value="об" count="1">
+  <word value="об" total_count="1" doc_count="1">
     <documents>
       <document id="11"/>
     </documents>
   </word>
-  <word value="обнаруж" count="2">
+  <word value="обнаруж" total_count="2" doc_count="2">
     <documents>
       <document id="5"/>
       <document id="8"/>
     </documents>
   </word>
-  <word value="оболочек" count="1">
+  <word value="оболочек" total_count="1" doc_count="1">
     <documents>
       <document id="11"/>
     </documents>
   </word>
-  <word value="оболочк" count="1">
+  <word value="оболочк" total_count="1" doc_count="1">
     <documents>
       <document id="11"/>
     </documents>
   </word>
-  <word value="обработк" count="6">
+  <word value="обработк" total_count="6" doc_count="3">
     <documents>
       <document id="2"/>
       <document id="4"/>
       <document id="5"/>
     </documents>
   </word>
-  <word value="образ" count="2">
+  <word value="образ" total_count="2" doc_count="2">
     <documents>
       <document id="5"/>
       <document id="9"/>
     </documents>
   </word>
-  <word value="образова" count="1">
+  <word value="образова" total_count="1" doc_count="1">
     <documents>
       <document id="8"/>
     </documents>
   </word>
-  <word value="обтек" count="1">
+  <word value="обтек" total_count="1" doc_count="1">
     <documents>
       <document id="12"/>
     </documents>
   </word>
-  <word value="обусловл" count="1">
+  <word value="обусловл" total_count="1" doc_count="1">
     <documents>
       <document id="7"/>
     </documents>
   </word>
-  <word value="обычн" count="1">
+  <word value="обычн" total_count="1" doc_count="1">
     <documents>
       <document id="1"/>
     </documents>
   </word>
-  <word value="огранич" count="2">
+  <word value="огранич" total_count="2" doc_count="2">
     <documents>
       <document id="11"/>
       <document id="12"/>
     </documents>
   </word>
-  <word value="октябр" count="1">
+  <word value="октябр" total_count="1" doc_count="1">
     <documents>
       <document id="15"/>
     </documents>
   </word>
-  <word value="он" count="2">
+  <word value="он" total_count="2" doc_count="2">
     <documents>
       <document id="4"/>
       <document id="10"/>
     </documents>
   </word>
-  <word value="оператор" count="2">
+  <word value="оператор" total_count="2" doc_count="2">
     <documents>
       <document id="2"/>
       <document id="9"/>
     </documents>
   </word>
-  <word value="опис" count="1">
+  <word value="опис" total_count="1" doc_count="1">
     <documents>
       <document id="2"/>
     </documents>
   </word>
-  <word value="описыв" count="1">
+  <word value="описыв" total_count="1" doc_count="1">
     <documents>
       <document id="4"/>
     </documents>
   </word>
-  <word value="определ" count="8">
+  <word value="определ" total_count="8" doc_count="7">
     <documents>
       <document id="4"/>
       <document id="5"/>
@@ -1170,78 +1170,78 @@
       <document id="14"/>
     </documents>
   </word>
-  <word value="оптическ" count="1">
+  <word value="оптическ" total_count="1" doc_count="1">
     <documents>
       <document id="8"/>
     </documents>
   </word>
-  <word value="ос" count="3">
+  <word value="ос" total_count="3" doc_count="1">
     <documents>
       <document id="6"/>
     </documents>
   </word>
-  <word value="освещ" count="1">
+  <word value="освещ" total_count="1" doc_count="1">
     <documents>
       <document id="8"/>
     </documents>
   </word>
-  <word value="осн" count="1">
+  <word value="осн" total_count="1" doc_count="1">
     <documents>
       <document id="2"/>
     </documents>
   </word>
-  <word value="основ" count="3">
+  <word value="основ" total_count="3" doc_count="3">
     <documents>
       <document id="3"/>
       <document id="7"/>
       <document id="11"/>
     </documents>
   </word>
-  <word value="основн" count="1">
+  <word value="основн" total_count="1" doc_count="1">
     <documents>
       <document id="12"/>
     </documents>
   </word>
-  <word value="от" count="3">
+  <word value="от" total_count="3" doc_count="3">
     <documents>
       <document id="3"/>
       <document id="6"/>
       <document id="8"/>
     </documents>
   </word>
-  <word value="отвеч" count="1">
+  <word value="отвеч" total_count="1" doc_count="1">
     <documents>
       <document id="9"/>
     </documents>
   </word>
-  <word value="отмет" count="1">
+  <word value="отмет" total_count="1" doc_count="1">
     <documents>
       <document id="12"/>
     </documents>
   </word>
-  <word value="отнест" count="1">
+  <word value="отнест" total_count="1" doc_count="1">
     <documents>
       <document id="12"/>
     </documents>
   </word>
-  <word value="относительн" count="2">
+  <word value="относительн" total_count="2" doc_count="2">
     <documents>
       <document id="3"/>
       <document id="6"/>
     </documents>
   </word>
-  <word value="отнош" count="1">
+  <word value="отнош" total_count="1" doc_count="1">
     <documents>
       <document id="14"/>
     </documents>
   </word>
-  <word value="оценк" count="2">
+  <word value="оценк" total_count="2" doc_count="2">
     <documents>
       <document id="1"/>
       <document id="10"/>
     </documents>
   </word>
-  <word value="параметр" count="5">
+  <word value="параметр" total_count="5" doc_count="4">
     <documents>
       <document id="3"/>
       <document id="4"/>
@@ -1249,54 +1249,54 @@
       <document id="10"/>
     </documents>
   </word>
-  <word value="перв" count="3">
+  <word value="перв" total_count="3" doc_count="2">
     <documents>
       <document id="12"/>
       <document id="15"/>
     </documents>
   </word>
-  <word value="перем" count="1">
+  <word value="перем" total_count="1" doc_count="1">
     <documents>
       <document id="12"/>
     </documents>
   </word>
-  <word value="перемещ" count="1">
+  <word value="перемещ" total_count="1" doc_count="1">
     <documents>
       <document id="11"/>
     </documents>
   </word>
-  <word value="период" count="2">
+  <word value="период" total_count="2" doc_count="2">
     <documents>
       <document id="3"/>
       <document id="15"/>
     </documents>
   </word>
-  <word value="периодическ" count="2">
+  <word value="периодическ" total_count="2" doc_count="1">
     <documents>
       <document id="5"/>
     </documents>
   </word>
-  <word value="перфориров" count="1">
+  <word value="перфориров" total_count="1" doc_count="1">
     <documents>
       <document id="12"/>
     </documents>
   </word>
-  <word value="плазм" count="5">
+  <word value="плазм" total_count="5" doc_count="1">
     <documents>
       <document id="7"/>
     </documents>
   </word>
-  <word value="плоск" count="1">
+  <word value="плоск" total_count="1" doc_count="1">
     <documents>
       <document id="10"/>
     </documents>
   </word>
-  <word value="плоскост" count="1">
+  <word value="плоскост" total_count="1" doc_count="1">
     <documents>
       <document id="14"/>
     </documents>
   </word>
-  <word value="по" count="7">
+  <word value="по" total_count="7" doc_count="5">
     <documents>
       <document id="3"/>
       <document id="5"/>
@@ -1305,45 +1305,45 @@
       <document id="15"/>
     </documents>
   </word>
-  <word value="поверхн" count="2">
+  <word value="поверхн" total_count="2" doc_count="2">
     <documents>
       <document id="3"/>
       <document id="12"/>
     </documents>
   </word>
-  <word value="поверхностн" count="1">
+  <word value="поверхностн" total_count="1" doc_count="1">
     <documents>
       <document id="11"/>
     </documents>
   </word>
-  <word value="поворот" count="1">
+  <word value="поворот" total_count="1" doc_count="1">
     <documents>
       <document id="6"/>
     </documents>
   </word>
-  <word value="повыс" count="1">
+  <word value="повыс" total_count="1" doc_count="1">
     <documents>
       <document id="1"/>
     </documents>
   </word>
-  <word value="пограничн" count="1">
+  <word value="пограничн" total_count="1" doc_count="1">
     <documents>
       <document id="12"/>
     </documents>
   </word>
-  <word value="подав" count="1">
+  <word value="подав" total_count="1" doc_count="1">
     <documents>
       <document id="12"/>
     </documents>
   </word>
-  <word value="позвол" count="3">
+  <word value="позвол" total_count="3" doc_count="3">
     <documents>
       <document id="1"/>
       <document id="2"/>
       <document id="5"/>
     </documents>
   </word>
-  <word value="показ" count="5">
+  <word value="показ" total_count="5" doc_count="4">
     <documents>
       <document id="4"/>
       <document id="6"/>
@@ -1351,130 +1351,130 @@
       <document id="9"/>
     </documents>
   </word>
-  <word value="пол" count="8">
+  <word value="пол" total_count="8" doc_count="3">
     <documents>
       <document id="6"/>
       <document id="7"/>
       <document id="9"/>
     </documents>
   </word>
-  <word value="полож" count="2">
+  <word value="полож" total_count="2" doc_count="2">
     <documents>
       <document id="6"/>
       <document id="11"/>
     </documents>
   </word>
-  <word value="получ" count="3">
+  <word value="получ" total_count="3" doc_count="3">
     <documents>
       <document id="4"/>
       <document id="6"/>
       <document id="10"/>
     </documents>
   </word>
-  <word value="полушар" count="1">
+  <word value="полушар" total_count="1" doc_count="1">
     <documents>
       <document id="3"/>
     </documents>
   </word>
-  <word value="поляризов" count="1">
+  <word value="поляризов" total_count="1" doc_count="1">
     <documents>
       <document id="8"/>
     </documents>
   </word>
-  <word value="полярн" count="1">
+  <word value="полярн" total_count="1" doc_count="1">
     <documents>
       <document id="7"/>
     </documents>
   </word>
-  <word value="помощ" count="2">
+  <word value="помощ" total_count="2" doc_count="2">
     <documents>
       <document id="1"/>
       <document id="10"/>
     </documents>
   </word>
-  <word value="понима" count="1">
+  <word value="понима" total_count="1" doc_count="1">
     <documents>
       <document id="5"/>
     </documents>
   </word>
-  <word value="порист" count="2">
+  <word value="порист" total_count="2" doc_count="2">
     <documents>
       <document id="10"/>
       <document id="12"/>
     </documents>
   </word>
-  <word value="порожд" count="1">
+  <word value="порожд" total_count="1" doc_count="1">
     <documents>
       <document id="9"/>
     </documents>
   </word>
-  <word value="порядк" count="2">
+  <word value="порядк" total_count="2" doc_count="2">
     <documents>
       <document id="9"/>
       <document id="14"/>
     </documents>
   </word>
-  <word value="постро" count="4">
+  <word value="постро" total_count="4" doc_count="3">
     <documents>
       <document id="11"/>
       <document id="13"/>
       <document id="14"/>
     </documents>
   </word>
-  <word value="поток" count="2">
+  <word value="поток" total_count="2" doc_count="2">
     <documents>
       <document id="7"/>
       <document id="12"/>
     </documents>
   </word>
-  <word value="правдоподоб" count="1">
+  <word value="правдоподоб" total_count="1" doc_count="1">
     <documents>
       <document id="1"/>
     </documents>
   </word>
-  <word value="прандтл" count="1">
+  <word value="прандтл" total_count="1" doc_count="1">
     <documents>
       <document id="12"/>
     </documents>
   </word>
-  <word value="предельн" count="1">
+  <word value="предельн" total_count="1" doc_count="1">
     <documents>
       <document id="5"/>
     </documents>
   </word>
-  <word value="предлаг" count="2">
+  <word value="предлаг" total_count="2" doc_count="2">
     <documents>
       <document id="10"/>
       <document id="14"/>
     </documents>
   </word>
-  <word value="предлож" count="2">
+  <word value="предлож" total_count="2" doc_count="2">
     <documents>
       <document id="1"/>
       <document id="3"/>
     </documents>
   </word>
-  <word value="предполаг" count="1">
+  <word value="предполаг" total_count="1" doc_count="1">
     <documents>
       <document id="11"/>
     </documents>
   </word>
-  <word value="представл" count="1">
+  <word value="представл" total_count="1" doc_count="1">
     <documents>
       <document id="2"/>
     </documents>
   </word>
-  <word value="преобраз" count="1">
+  <word value="преобраз" total_count="1" doc_count="1">
     <documents>
       <document id="12"/>
     </documents>
   </word>
-  <word value="препятств" count="1">
+  <word value="препятств" total_count="1" doc_count="1">
     <documents>
       <document id="11"/>
     </documents>
   </word>
-  <word value="при" count="8">
+  <word value="при" total_count="8" doc_count="5">
     <documents>
       <document id="1"/>
       <document id="8"/>
@@ -1483,89 +1483,89 @@
       <document id="12"/>
     </documents>
   </word>
-  <word value="приблиз" count="1">
+  <word value="приблиз" total_count="1" doc_count="1">
     <documents>
       <document id="5"/>
     </documents>
   </word>
-  <word value="приеморегистрир" count="1">
+  <word value="приеморегистрир" total_count="1" doc_count="1">
     <documents>
       <document id="1"/>
     </documents>
   </word>
-  <word value="примен" count="1">
+  <word value="примен" total_count="1" doc_count="1">
     <documents>
       <document id="2"/>
     </documents>
   </word>
-  <word value="присутств" count="1">
+  <word value="присутств" total_count="1" doc_count="1">
     <documents>
       <document id="2"/>
     </documents>
   </word>
-  <word value="причин" count="1">
+  <word value="причин" total_count="1" doc_count="1">
     <documents>
       <document id="5"/>
     </documents>
   </word>
-  <word value="провед" count="3">
+  <word value="провед" total_count="3" doc_count="3">
     <documents>
       <document id="2"/>
       <document id="10"/>
       <document id="11"/>
     </documents>
   </word>
-  <word value="провод" count="2">
+  <word value="провод" total_count="2" doc_count="2">
     <documents>
       <document id="2"/>
       <document id="7"/>
     </documents>
   </word>
-  <word value="программ" count="1">
+  <word value="программ" total_count="1" doc_count="1">
     <documents>
       <document id="4"/>
     </documents>
   </word>
-  <word value="проект" count="1">
+  <word value="проект" total_count="1" doc_count="1">
     <documents>
       <document id="15"/>
     </documents>
   </word>
-  <word value="проница" count="1">
+  <word value="проница" total_count="1" doc_count="1">
     <documents>
       <document id="10"/>
     </documents>
   </word>
-  <word value="пространств" count="5">
+  <word value="пространств" total_count="5" doc_count="3">
     <documents>
       <document id="3"/>
       <document id="5"/>
       <document id="7"/>
     </documents>
   </word>
-  <word value="пространственноосциллир" count="1">
+  <word value="пространственноосциллир" total_count="1" doc_count="1">
     <documents>
       <document id="8"/>
     </documents>
   </word>
-  <word value="пространствовр" count="1">
+  <word value="пространствовр" total_count="1" doc_count="1">
     <documents>
       <document id="9"/>
     </documents>
   </word>
-  <word value="процесс" count="3">
+  <word value="процесс" total_count="3" doc_count="3">
     <documents>
       <document id="2"/>
       <document id="5"/>
       <document id="10"/>
     </documents>
   </word>
-  <word value="пункт" count="1">
+  <word value="пункт" total_count="1" doc_count="1">
     <documents>
       <document id="5"/>
     </documents>
   </word>
-  <word value="работ" count="7">
+  <word value="работ" total_count="7" doc_count="5">
     <documents>
       <document id="2"/>
       <document id="8"/>
@@ -1574,53 +1574,53 @@
       <document id="15"/>
     </documents>
   </word>
-  <word value="равновес" count="1">
+  <word value="равновес" total_count="1" doc_count="1">
     <documents>
       <document id="11"/>
     </documents>
   </word>
-  <word value="радиосигна" count="1">
+  <word value="радиосигна" total_count="1" doc_count="1">
     <documents>
       <document id="2"/>
     </documents>
   </word>
-  <word value="разброс" count="1">
+  <word value="разброс" total_count="1" doc_count="1">
     <documents>
       <document id="3"/>
     </documents>
   </word>
-  <word value="развернут" count="1">
+  <word value="развернут" total_count="1" doc_count="1">
     <documents>
       <document id="6"/>
     </documents>
   </word>
-  <word value="различн" count="1">
+  <word value="различн" total_count="1" doc_count="1">
     <documents>
       <document id="9"/>
     </documents>
   </word>
-  <word value="разлож" count="1">
+  <word value="разлож" total_count="1" doc_count="1">
     <documents>
       <document id="7"/>
     </documents>
   </word>
-  <word value="разработ" count="2">
+  <word value="разработ" total_count="2" doc_count="2">
     <documents>
       <document id="4"/>
       <document id="7"/>
     </documents>
   </word>
-  <word value="разреш" count="1">
+  <word value="разреш" total_count="1" doc_count="1">
     <documents>
       <document id="1"/>
     </documents>
   </word>
-  <word value="распредел" count="1">
+  <word value="распредел" total_count="1" doc_count="1">
     <documents>
       <document id="7"/>
     </documents>
   </word>
-  <word value="рассматрив" count="5">
+  <word value="рассматрив" total_count="5" doc_count="5">
     <documents>
       <document id="5"/>
       <document id="9"/>
@@ -1629,122 +1629,122 @@
       <document id="14"/>
     </documents>
   </word>
-  <word value="рассмотр" count="1">
+  <word value="рассмотр" total_count="1" doc_count="1">
     <documents>
       <document id="13"/>
     </documents>
   </word>
-  <word value="рассчит" count="1">
+  <word value="рассчит" total_count="1" doc_count="1">
     <documents>
       <document id="7"/>
     </documents>
   </word>
-  <word value="расход" count="1">
+  <word value="расход" total_count="1" doc_count="1">
     <documents>
       <document id="12"/>
     </documents>
   </word>
-  <word value="расчет" count="2">
+  <word value="расчет" total_count="2" doc_count="2">
     <documents>
       <document id="6"/>
       <document id="7"/>
     </documents>
   </word>
-  <word value="расшир" count="1">
+  <word value="расшир" total_count="1" doc_count="1">
     <documents>
       <document id="2"/>
     </documents>
   </word>
-  <word value="регистрир" count="1">
+  <word value="регистрир" total_count="1" doc_count="1">
     <documents>
       <document id="1"/>
     </documents>
   </word>
-  <word value="реж" count="1">
+  <word value="реж" total_count="1" doc_count="1">
     <documents>
       <document id="2"/>
     </documents>
   </word>
-  <word value="результат" count="4">
+  <word value="результат" total_count="4" doc_count="3">
     <documents>
       <document id="5"/>
       <document id="6"/>
       <document id="10"/>
     </documents>
   </word>
-  <word value="республик" count="1">
+  <word value="республик" total_count="1" doc_count="1">
     <documents>
       <document id="5"/>
     </documents>
   </word>
-  <word value="реш" count="5">
+  <word value="реш" total_count="5" doc_count="3">
     <documents>
       <document id="10"/>
       <document id="11"/>
       <document id="14"/>
     </documents>
   </word>
-  <word value="сар" count="1">
+  <word value="сар" total_count="1" doc_count="1">
     <documents>
       <document id="15"/>
     </documents>
   </word>
-  <word value="сахар" count="1">
+  <word value="сахар" total_count="1" doc_count="1">
     <documents>
       <document id="15"/>
     </documents>
   </word>
-  <word value="сверхтекуч" count="3">
+  <word value="сверхтекуч" total_count="3" doc_count="1">
     <documents>
       <document id="9"/>
     </documents>
   </word>
-  <word value="свет" count="1">
+  <word value="свет" total_count="1" doc_count="1">
     <documents>
       <document id="8"/>
     </documents>
   </word>
-  <word value="свободн" count="1">
+  <word value="свободн" total_count="1" doc_count="1">
     <documents>
       <document id="10"/>
     </documents>
   </word>
-  <word value="северн" count="1">
+  <word value="северн" total_count="1" doc_count="1">
     <documents>
       <document id="3"/>
     </documents>
   </word>
-  <word value="сегнетоэлектрик" count="1">
+  <word value="сегнетоэлектрик" total_count="1" doc_count="1">
     <documents>
       <document id="8"/>
     </documents>
   </word>
-  <word value="семейств" count="1">
+  <word value="семейств" total_count="1" doc_count="1">
     <documents>
       <document id="4"/>
     </documents>
   </word>
-  <word value="сет" count="1">
+  <word value="сет" total_count="1" doc_count="1">
     <documents>
       <document id="5"/>
     </documents>
   </word>
-  <word value="сетчат" count="1">
+  <word value="сетчат" total_count="1" doc_count="1">
     <documents>
       <document id="11"/>
     </documents>
   </word>
-  <word value="сжима" count="1">
+  <word value="сжима" total_count="1" doc_count="1">
     <documents>
       <document id="13"/>
     </documents>
   </word>
-  <word value="сил" count="1">
+  <word value="сил" total_count="1" doc_count="1">
     <documents>
       <document id="11"/>
     </documents>
   </word>
-  <word value="сист" count="7">
+  <word value="сист" total_count="7" doc_count="4">
     <documents>
       <document id="2"/>
       <document id="4"/>
@@ -1752,505 +1752,505 @@
       <document id="14"/>
     </documents>
   </word>
-  <word value="скольконибуд" count="1">
+  <word value="скольконибуд" total_count="1" doc_count="1">
     <documents>
       <document id="1"/>
     </documents>
   </word>
-  <word value="скорост" count="2">
+  <word value="скорост" total_count="2" doc_count="2">
     <documents>
       <document id="5"/>
       <document id="12"/>
     </documents>
   </word>
-  <word value="слаб" count="1">
+  <word value="слаб" total_count="1" doc_count="1">
     <documents>
       <document id="13"/>
     </documents>
   </word>
-  <word value="след" count="1">
+  <word value="след" total_count="1" doc_count="1">
     <documents>
       <document id="11"/>
     </documents>
   </word>
-  <word value="следств" count="1">
+  <word value="следств" total_count="1" doc_count="1">
     <documents>
       <document id="5"/>
     </documents>
   </word>
-  <word value="сло" count="4">
+  <word value="сло" total_count="4" doc_count="2">
     <documents>
       <document id="10"/>
       <document id="12"/>
     </documents>
   </word>
-  <word value="слойк" count="1">
+  <word value="слойк" total_count="1" doc_count="1">
     <documents>
       <document id="15"/>
     </documents>
   </word>
-  <word value="случ" count="2">
+  <word value="случ" total_count="2" doc_count="2">
     <documents>
       <document id="4"/>
       <document id="10"/>
     </documents>
   </word>
-  <word value="смещ" count="1">
+  <word value="смещ" total_count="1" doc_count="1">
     <documents>
       <document id="6"/>
     </documents>
   </word>
-  <word value="со" count="3">
+  <word value="со" total_count="3" doc_count="2">
     <documents>
       <document id="10"/>
       <document id="13"/>
     </documents>
   </word>
-  <word value="советск" count="2">
+  <word value="советск" total_count="2" doc_count="1">
     <documents>
       <document id="15"/>
     </documents>
   </word>
-  <word value="совпад" count="1">
+  <word value="совпад" total_count="1" doc_count="1">
     <documents>
       <document id="6"/>
     </documents>
   </word>
-  <word value="соврем" count="1">
+  <word value="соврем" total_count="1" doc_count="1">
     <documents>
       <document id="2"/>
     </documents>
   </word>
-  <word value="соглас" count="1">
+  <word value="соглас" total_count="1" doc_count="1">
     <documents>
       <document id="6"/>
     </documents>
   </word>
-  <word value="содерж" count="1">
+  <word value="содерж" total_count="1" doc_count="1">
     <documents>
       <document id="13"/>
     </documents>
   </word>
-  <word value="созд" count="3">
+  <word value="созд" total_count="3" doc_count="3">
     <documents>
       <document id="2"/>
       <document id="4"/>
       <document id="15"/>
     </documents>
   </word>
-  <word value="соответств" count="2">
+  <word value="соответств" total_count="2" doc_count="2">
     <documents>
       <document id="3"/>
       <document id="12"/>
     </documents>
   </word>
-  <word value="соотнош" count="1">
+  <word value="соотнош" total_count="1" doc_count="1">
     <documents>
       <document id="13"/>
     </documents>
   </word>
-  <word value="сопротивл" count="1">
+  <word value="сопротивл" total_count="1" doc_count="1">
     <documents>
       <document id="12"/>
     </documents>
   </word>
-  <word value="сопряж" count="1">
+  <word value="сопряж" total_count="1" doc_count="1">
     <documents>
       <document id="12"/>
     </documents>
   </word>
-  <word value="состоя" count="1">
+  <word value="состоя" total_count="1" doc_count="1">
     <documents>
       <document id="2"/>
     </documents>
   </word>
-  <word value="сохран" count="1">
+  <word value="сохран" total_count="1" doc_count="1">
     <documents>
       <document id="12"/>
     </documents>
   </word>
-  <word value="спектр" count="1">
+  <word value="спектр" total_count="1" doc_count="1">
     <documents>
       <document id="2"/>
     </documents>
   </word>
-  <word value="специфическ" count="1">
+  <word value="специфическ" total_count="1" doc_count="1">
     <documents>
       <document id="10"/>
     </documents>
   </word>
-  <word value="справедл" count="1">
+  <word value="справедл" total_count="1" doc_count="1">
     <documents>
       <document id="12"/>
     </documents>
   </word>
-  <word value="спутник" count="3">
+  <word value="спутник" total_count="3" doc_count="1">
     <documents>
       <document id="5"/>
     </documents>
   </word>
-  <word value="сравн" count="1">
+  <word value="сравн" total_count="1" doc_count="1">
     <documents>
       <document id="10"/>
     </documents>
   </word>
-  <word value="средн" count="2">
+  <word value="средн" total_count="2" doc_count="1">
     <documents>
       <document id="3"/>
     </documents>
   </word>
-  <word value="средств" count="1">
+  <word value="средств" total_count="1" doc_count="1">
     <documents>
       <document id="2"/>
     </documents>
   </word>
-  <word value="став" count="1">
+  <word value="став" total_count="1" doc_count="1">
     <documents>
       <document id="12"/>
     </documents>
   </word>
-  <word value="стат" count="2">
+  <word value="стат" total_count="2" doc_count="2">
     <documents>
       <document id="5"/>
       <document id="13"/>
     </documents>
   </word>
-  <word value="стационарн" count="2">
+  <word value="стационарн" total_count="2" doc_count="2">
     <documents>
       <document id="10"/>
       <document id="11"/>
     </documents>
   </word>
-  <word value="стратосфер" count="1">
+  <word value="стратосфер" total_count="1" doc_count="1">
     <documents>
       <document id="3"/>
     </documents>
   </word>
-  <word value="стру" count="1">
+  <word value="стру" total_count="1" doc_count="1">
     <documents>
       <document id="10"/>
     </documents>
   </word>
-  <word value="структур" count="5">
+  <word value="структур" total_count="5" doc_count="3">
     <documents>
       <document id="5"/>
       <document id="7"/>
       <document id="8"/>
     </documents>
   </word>
-  <word value="существ" count="1">
+  <word value="существ" total_count="1" doc_count="1">
     <documents>
       <document id="9"/>
     </documents>
   </word>
-  <word value="схем" count="2">
+  <word value="схем" total_count="2" doc_count="1">
     <documents>
       <document id="11"/>
     </documents>
   </word>
-  <word value="сход" count="2">
+  <word value="сход" total_count="2" doc_count="1">
     <documents>
       <document id="11"/>
     </documents>
   </word>
-  <word value="так" count="1">
+  <word value="так" total_count="1" doc_count="1">
     <documents>
       <document id="5"/>
     </documents>
   </word>
-  <word value="такж" count="1">
+  <word value="такж" total_count="1" doc_count="1">
     <documents>
       <document id="15"/>
     </documents>
   </word>
-  <word value="татарст" count="1">
+  <word value="татарст" total_count="1" doc_count="1">
     <documents>
       <document id="5"/>
     </documents>
   </word>
-  <word value="тектоническ" count="1">
+  <word value="тектоническ" total_count="1" doc_count="1">
     <documents>
       <document id="5"/>
     </documents>
   </word>
-  <word value="текущ" count="1">
+  <word value="текущ" total_count="1" doc_count="1">
     <documents>
       <document id="2"/>
     </documents>
   </word>
-  <word value="тел" count="2">
+  <word value="тел" total_count="2" doc_count="1">
     <documents>
       <document id="13"/>
     </documents>
   </word>
-  <word value="температур" count="1">
+  <word value="температур" total_count="1" doc_count="1">
     <documents>
       <document id="3"/>
     </documents>
   </word>
-  <word value="тензор" count="1">
+  <word value="тензор" total_count="1" doc_count="1">
     <documents>
       <document id="9"/>
     </documents>
   </word>
-  <word value="теор" count="1">
+  <word value="теор" total_count="1" doc_count="1">
     <documents>
       <document id="10"/>
     </documents>
   </word>
-  <word value="теоретическ" count="1">
+  <word value="теоретическ" total_count="1" doc_count="1">
     <documents>
       <document id="13"/>
     </documents>
   </word>
-  <word value="термоядерн" count="1">
+  <word value="термоядерн" total_count="1" doc_count="1">
     <documents>
       <document id="15"/>
     </documents>
   </word>
-  <word value="тестирова" count="1">
+  <word value="тестирова" total_count="1" doc_count="1">
     <documents>
       <document id="4"/>
     </documents>
   </word>
-  <word value="техническ" count="1">
+  <word value="техническ" total_count="1" doc_count="1">
     <documents>
       <document id="2"/>
     </documents>
   </word>
-  <word value="теч" count="1">
+  <word value="теч" total_count="1" doc_count="1">
     <documents>
       <document id="15"/>
     </documents>
   </word>
-  <word value="тип" count="2">
+  <word value="тип" total_count="2" doc_count="2">
     <documents>
       <document id="12"/>
       <document id="15"/>
     </documents>
   </word>
-  <word value="ток" count="2">
+  <word value="ток" total_count="2" doc_count="2">
     <documents>
       <document id="6"/>
       <document id="8"/>
     </documents>
   </word>
-  <word value="толст" count="1">
+  <word value="толст" total_count="1" doc_count="1">
     <documents>
       <document id="10"/>
     </documents>
   </word>
-  <word value="толщин" count="1">
+  <word value="толщин" total_count="1" doc_count="1">
     <documents>
       <document id="10"/>
     </documents>
   </word>
-  <word value="точност" count="3">
+  <word value="точност" total_count="3" doc_count="2">
     <documents>
       <document id="5"/>
       <document id="10"/>
     </documents>
   </word>
-  <word value="треб" count="1">
+  <word value="треб" total_count="1" doc_count="1">
     <documents>
       <document id="1"/>
     </documents>
   </word>
-  <word value="трен" count="1">
+  <word value="трен" total_count="1" doc_count="1">
     <documents>
       <document id="12"/>
     </documents>
   </word>
-  <word value="трехмерн" count="2">
+  <word value="трехмерн" total_count="2" doc_count="1">
     <documents>
       <document id="7"/>
     </documents>
   </word>
-  <word value="три" count="1">
+  <word value="три" total_count="1" doc_count="1">
     <documents>
       <document id="15"/>
     </documents>
   </word>
-  <word value="тягот" count="1">
+  <word value="тягот" total_count="1" doc_count="1">
     <documents>
       <document id="9"/>
     </documents>
   </word>
-  <word value="угл" count="1">
+  <word value="угл" total_count="1" doc_count="1">
     <documents>
       <document id="7"/>
     </documents>
   </word>
-  <word value="угол" count="1">
+  <word value="угол" total_count="1" doc_count="1">
     <documents>
       <document id="6"/>
     </documents>
   </word>
-  <word value="уд" count="1">
+  <word value="уд" total_count="1" doc_count="1">
     <documents>
       <document id="10"/>
     </documents>
   </word>
-  <word value="удельн" count="1">
+  <word value="удельн" total_count="1" doc_count="1">
     <documents>
       <document id="12"/>
     </documents>
   </word>
-  <word value="удовлетвор" count="1">
+  <word value="удовлетвор" total_count="1" doc_count="1">
     <documents>
       <document id="9"/>
     </documents>
   </word>
-  <word value="удовлетворительн" count="1">
+  <word value="удовлетворительн" total_count="1" doc_count="1">
     <documents>
       <document id="10"/>
     </documents>
   </word>
-  <word value="университет" count="1">
+  <word value="университет" total_count="1" doc_count="1">
     <documents>
       <document id="4"/>
     </documents>
   </word>
-  <word value="управл" count="3">
+  <word value="управл" total_count="3" doc_count="2">
     <documents>
       <document id="2"/>
       <document id="12"/>
     </documents>
   </word>
-  <word value="уравн" count="2">
+  <word value="уравн" total_count="2" doc_count="1">
     <documents>
       <document id="14"/>
     </documents>
   </word>
-  <word value="уровн" count="1">
+  <word value="уровн" total_count="1" doc_count="1">
     <documents>
       <document id="3"/>
     </documents>
   </word>
-  <word value="усл" count="4">
+  <word value="усл" total_count="4" doc_count="3">
     <documents>
       <document id="9"/>
       <document id="10"/>
       <document id="14"/>
     </documents>
   </word>
-  <word value="устойч" count="1">
+  <word value="устойч" total_count="1" doc_count="1">
     <documents>
       <document id="14"/>
     </documents>
   </word>
-  <word value="участк" count="1">
+  <word value="участк" total_count="1" doc_count="1">
     <documents>
       <document id="5"/>
     </documents>
   </word>
-  <word value="участник" count="1">
+  <word value="участник" total_count="1" doc_count="1">
     <documents>
       <document id="15"/>
     </documents>
   </word>
-  <word value="участок" count="1">
+  <word value="участок" total_count="1" doc_count="1">
     <documents>
       <document id="12"/>
     </documents>
   </word>
-  <word value="учитыв" count="1">
+  <word value="учитыв" total_count="1" doc_count="1">
     <documents>
       <document id="3"/>
     </documents>
   </word>
-  <word value="фаз" count="1">
+  <word value="фаз" total_count="1" doc_count="1">
     <documents>
       <document id="1"/>
     </documents>
   </word>
-  <word value="форм" count="1">
+  <word value="форм" total_count="1" doc_count="1">
     <documents>
       <document id="7"/>
     </documents>
   </word>
-  <word value="формулир" count="1">
+  <word value="формулир" total_count="1" doc_count="1">
     <documents>
       <document id="10"/>
     </documents>
   </word>
-  <word value="формулировк" count="1">
+  <word value="формулировк" total_count="1" doc_count="1">
     <documents>
       <document id="11"/>
     </documents>
   </word>
-  <word value="фотовольтаическ" count="1">
+  <word value="фотовольтаическ" total_count="1" doc_count="1">
     <documents>
       <document id="8"/>
     </documents>
   </word>
-  <word value="фундаментальн" count="1">
+  <word value="фундаментальн" total_count="1" doc_count="1">
     <documents>
       <document id="5"/>
     </documents>
   </word>
-  <word value="фурьегармоник" count="1">
+  <word value="фурьегармоник" total_count="1" doc_count="1">
     <documents>
       <document id="7"/>
     </documents>
   </word>
-  <word value="характер" count="1">
+  <word value="характер" total_count="1" doc_count="1">
     <documents>
       <document id="5"/>
     </documents>
   </word>
-  <word value="хорош" count="1">
+  <word value="хорош" total_count="1" doc_count="1">
     <documents>
       <document id="6"/>
     </documents>
   </word>
-  <word value="центр" count="1">
+  <word value="центр" total_count="1" doc_count="1">
     <documents>
       <document id="9"/>
     </documents>
   </word>
-  <word value="центральн" count="1">
+  <word value="центральн" total_count="1" doc_count="1">
     <documents>
       <document id="5"/>
     </documents>
   </word>
-  <word value="цикл" count="1">
+  <word value="цикл" total_count="1" doc_count="1">
     <documents>
       <document id="13"/>
     </documents>
   </word>
-  <word value="циклон" count="1">
+  <word value="циклон" total_count="1" doc_count="1">
     <documents>
       <document id="4"/>
     </documents>
   </word>
-  <word value="част" count="2">
+  <word value="част" total_count="2" doc_count="2">
     <documents>
       <document id="5"/>
       <document id="13"/>
     </documents>
   </word>
-  <word value="частн" count="1">
+  <word value="частн" total_count="1" doc_count="1">
     <documents>
       <document id="14"/>
     </documents>
   </word>
-  <word value="чем" count="1">
+  <word value="чем" total_count="1" doc_count="1">
     <documents>
       <document id="4"/>
     </documents>
   </word>
-  <word value="через" count="1">
+  <word value="через" total_count="1" doc_count="1">
     <documents>
       <document id="12"/>
     </documents>
   </word>
-  <word value="четырех" count="1">
+  <word value="четырех" total_count="1" doc_count="1">
     <documents>
       <document id="15"/>
     </documents>
   </word>
-  <word value="числ" count="4">
+  <word value="числ" total_count="4" doc_count="4">
     <documents>
       <document id="6"/>
       <document id="10"/>
@@ -2258,12 +2258,12 @@
       <document id="13"/>
     </documents>
   </word>
-  <word value="численноаналитическ" count="1">
+  <word value="численноаналитическ" total_count="1" doc_count="1">
     <documents>
       <document id="10"/>
     </documents>
   </word>
-  <word value="что" count="9">
+  <word value="что" total_count="9" doc_count="7">
     <documents>
       <document id="1"/>
       <document id="2"/>
@@ -2274,51 +2274,51 @@
       <document id="12"/>
     </documents>
   </word>
-  <word value="электрическ" count="1">
+  <word value="электрическ" total_count="1" doc_count="1">
     <documents>
       <document id="6"/>
     </documents>
   </word>
-  <word value="электромагнитн" count="5">
+  <word value="электромагнитн" total_count="5" doc_count="2">
     <documents>
       <document id="6"/>
       <document id="7"/>
     </documents>
   </word>
-  <word value="эмпирическ" count="1">
+  <word value="эмпирическ" total_count="1" doc_count="1">
     <documents>
       <document id="3"/>
     </documents>
   </word>
-  <word value="энерг" count="1">
+  <word value="энерг" total_count="1" doc_count="1">
     <documents>
       <document id="7"/>
     </documents>
   </word>
-  <word value="энергииимпульс" count="1">
+  <word value="энергииимпульс" total_count="1" doc_count="1">
     <documents>
       <document id="9"/>
     </documents>
   </word>
-  <word value="эт" count="4">
+  <word value="эт" total_count="4" doc_count="3">
     <documents>
       <document id="1"/>
       <document id="5"/>
       <document id="15"/>
     </documents>
   </word>
-  <word value="этап" count="1">
+  <word value="этап" total_count="1" doc_count="1">
     <documents>
       <document id="15"/>
     </documents>
   </word>
-  <word value="явл" count="2">
+  <word value="явл" total_count="2" doc_count="2">
     <documents>
       <document id="5"/>
       <document id="13"/>
     </documents>
   </word>
-  <word value="явн" count="1">
+  <word value="явн" total_count="1" doc_count="1">
     <documents>
       <document id="6"/>
     </documents>

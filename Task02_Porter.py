@@ -67,7 +67,8 @@ if (__name__ == "__main__"):
     for w in sorted(full_dict):
         word = etree.SubElement(root, 'word')
         word.set('value', w)
-        word.set('count', str(full_dict[w].count))
+        word.set('total_count', str(full_dict[w].count))
+        word.set('doc_count', str(len(full_dict[w].documents)))
         word_docs = etree.SubElement(word, 'documents')
         for d in full_dict[w].documents:
             word_doc = etree.SubElement(word_docs, 'document')
