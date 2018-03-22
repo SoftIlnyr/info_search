@@ -2,16 +2,7 @@
 
 from lxml import etree, html
 
-class Document:
-    title = ''
-    id = 0
-    dict = {}
-
-class Word:
-    def __init__(self, value):
-        self.value = value
-        self.count = 0
-        self.documents = []
+from Entities import *
 
 
 if (__name__ == "__main__"):
@@ -19,16 +10,12 @@ if (__name__ == "__main__"):
 
     root = tree.getroot()
 
-    i = 0
 
     documents = []
     full_dict = {}
 
     for article in root.iter("article"):
-        i += 1
-        doc = Document()
-        doc.id = i
-        doc.title = article.find("title").text.strip()
+        doc = Document(article.find("title").text.strip())
         doc_text = article.find("abstract-mystem").text
         for word in doc_text.split(" "):
             word = word.strip()
@@ -37,10 +24,25 @@ if (__name__ == "__main__"):
                     doc.dict[word] = 0
                     if (not full_dict.has_key(word)):
                         word_obj = Word(word)
-                        word_obj.documents.append(doc.id)
+                        word_obj.documents_article.append(doc)
                         full_dict[word] = word_obj
-                if (not doc.id in full_dict[word].documents):
-                    full_dict[word].documents.append(doc.id)
+                if (not doc in full_dict[word].documents_article):
+                    full_dict[word].documents_article.append(doc)
+                doc.dict[word] += 1
+                full_dict[word].count += 1
+
+        doc_title = article.find("title-mystem").text
+        for word in doc_title.split(" "):
+            word = word.strip()
+            if (len(word) > 0):
+                if (not doc.dict.has_key(word)):
+                    doc.dict[word] = 0
+                    if (not full_dict.has_key(word)):
+                        word_obj = Word(word)
+                        word_obj.documents_title.append(doc)
+                        full_dict[word] = word_obj
+                if (not doc in full_dict[word].documents_title):
+                    full_dict[word].documents_title.append(doc)
                 doc.dict[word] += 1
                 full_dict[word].count += 1
 
@@ -68,11 +70,18 @@ if (__name__ == "__main__"):
         word = etree.SubElement(root, 'word')
         word.set('value', w)
         word.set('total_count', str(full_dict[w].count))
-        word.set('doc_count', str(len(full_dict[w].documents)))
-        word_docs = etree.SubElement(word, 'documents')
-        for d in full_dict[w].documents:
+        word.set('doc_article_count', str(len(full_dict[w].documents_article)))
+        word.set('doc_title_count', str(len(full_dict[w].documents_title)))
+        word_docs = etree.SubElement(word, 'documents_article')
+        for d in full_dict[w].documents_article:
             word_doc = etree.SubElement(word_docs, 'document')
-            word_doc.set('id', str(d))
+            word_doc.set('id', str(d.id))
+            word_doc.set('title', d.title)
+        word_docs = etree.SubElement(word, 'documents_title')
+        for d in full_dict[w].documents_title:
+            word_doc = etree.SubElement(word_docs, 'document')
+            word_doc.set('id', str(d.id))
+            word_doc.set('title', d.title)
 
     output = open("word_info_mystem.xml", "w")
     output.write(etree.tostring(root, pretty_print=True, xml_declaration=True, encoding='UTF-8'))

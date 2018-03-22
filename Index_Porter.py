@@ -2,16 +2,7 @@
 
 from lxml import etree, html
 
-class Document:
-    title = ''
-    id = 0
-    dict = {}
-
-class Word:
-    def __init__(self, value):
-        self.value = value
-        self.count = 0
-        self.documents = []
+from Entities import *
 
 
 if (__name__ == "__main__"):
@@ -19,16 +10,12 @@ if (__name__ == "__main__"):
 
     root = tree.getroot()
 
-    i = 0
 
     documents = []
     full_dict = {}
 
     for article in root.iter("article"):
-        i += 1
-        doc = Document()
-        doc.id = i
-        doc.title = article.find("title").text.strip()
+        doc = Document(article.find("title").text.strip())
         doc_text = article.find("abstract-porter").text
         for word in doc_text.split(" "):
             word = word.strip()
@@ -37,10 +24,10 @@ if (__name__ == "__main__"):
                     doc.dict[word] = 0
                     if (not full_dict.has_key(word)):
                         word_obj = Word(word)
-                        word_obj.documents.append(doc.id)
+                        word_obj.documents_article.append(doc)
                         full_dict[word] = word_obj
-                if (not doc.id in full_dict[word].documents):
-                    full_dict[word].documents.append(doc.id)
+                if (not doc in full_dict[word].documents):
+                    full_dict[word].documents.append(doc)
                 doc.dict[word] += 1
                 full_dict[word].count += 1
 
@@ -72,7 +59,8 @@ if (__name__ == "__main__"):
         word_docs = etree.SubElement(word, 'documents')
         for d in full_dict[w].documents:
             word_doc = etree.SubElement(word_docs, 'document')
-            word_doc.set('id', str(d))
+            word_doc.set('id', str(d.id))
+            word_doc.set('title', d.title)
 
     output = open("word_info_porter.xml", "w")
     output.write(etree.tostring(root, pretty_print=True, xml_declaration=True, encoding='UTF-8'))

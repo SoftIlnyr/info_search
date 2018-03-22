@@ -3,6 +3,7 @@ from StringIO import StringIO
 import requests
 from Porter import Porter
 from pymystem3 import Mystem
+from Entities import *
 import re
 from lxml import etree, html
 
@@ -30,7 +31,9 @@ def getStemText(text):
     m = Mystem()
     text_raw = re.sub(u'[^a-zA-Zа-яА-ЯйЙёЁ _]+', '', text)
     text_stem = m.lemmatize(text_raw)
-    return ''.join(text_stem)
+    text_res = ''.join(text_stem).strip()
+    return text_res
+
 
 if (__name__) == "__main__":
     link = 'http://www.mathnet.ru/php/archive.phtml?jrnid=uzku&wshow=issue&bshow=contents&series=0&year=2008&volume=150&issue=3&option_lang=rus&bookID=1000'
