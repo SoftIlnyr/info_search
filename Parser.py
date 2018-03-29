@@ -47,8 +47,11 @@ if (__name__) == "__main__":
 
 
     expresstion_article = "// td[@colspan='2'] / a[contains(@class, 'SLink')]".decode('utf-8')
+    index = 0
     for element in root_tree.xpath(expresstion_article):
         article = etree.SubElement(articles, 'article')
+        article.set("id", str(index))
+        index += 1
         article_link = etree.SubElement(article, 'link')
         article_link.text = 'http://www.mathnet.ru%s' % element.attrib['href']
         article_title = etree.SubElement(article, 'title')
@@ -88,10 +91,15 @@ if (__name__) == "__main__":
 
         expression_keywords = "// b[contains(.,'Ключевые слова:')] / following-sibling::i".decode('utf-8')
         article_keywords = etree.SubElement(article, 'keywords')
+
         try:
-            article_keywords.text = article_tree.xpath(expression_keywords)[0].text_content()
+            keywords = article_tree.xpath(expression_keywords)[0].text_content().split(" ")
+            for keyword_value in keywords:
+                keyword_value = re.sub(u'[^a-zA-Zа-яА-ЯйЙёЁ]+', '', keyword_value)
+                article_keyword = etree.SubElement(article_keywords, 'keyword')
+                article_keyword.text = getStemText(keyword_value)
         except IndexError:
-            article_keywords.text = 'null'
+            pass
 
 
     output = open("result.xml", "w")

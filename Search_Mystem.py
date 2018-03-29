@@ -26,8 +26,6 @@ if __name__ == '__main__':
             word.documents_title.append(doc.attrib["id"])
         word_dict[word_val] = word
 
-    print "done"
-
 
 
     # query = raw_input("enter your request: ").decode("utf8")
