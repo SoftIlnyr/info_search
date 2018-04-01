@@ -67,15 +67,18 @@ if __name__ == "__main__":
             idf_title = math.log(len(articles) / len(word_obj.documents_title))
         else:
             idf_title = 0
+
         total_word_docs = set(word_obj.documents_article)
         total_word_docs.update(word_obj.documents_title)
+
+        idf_full = math.log(len(articles) / len(total_word_docs))
 
         for doc_id in total_word_docs:
             article_abstract_text = articles[doc_id].find("abstract-mystem").text
             article_title_text = articles[doc_id].find("title-mystem").text
 
             #находим tf и tfidf
-            print article_title_text.count(word)
+            print(article_title_text.count(word))
             print float(len(article_title_text.split(" ")))
 
             tf_title =  float(article_title_text.count(word)) / len(article_title_text.split(" "))
@@ -83,6 +86,11 @@ if __name__ == "__main__":
 
             tf_abstract = float(article_abstract_text.count(word)) / len(article_abstract_text.split(" "))
             word_obj.tfidf_abstract = tf_abstract * idf_abstract
+
+            article_full_text = article_title_text + " " + article_abstract_text
+
+            tf_full = float(article_full_text.count(word)) / len(article_full_text.split(" "))
+            word_obj.tfidf_full = tf_full
 
             #находим total tfidf
             word_obj.tfidf_total = 0.4 * word_obj.tfidf_abstract + 0.6 * word_obj.tfidf_title
@@ -107,8 +115,8 @@ if __name__ == "__main__":
         for doc_id in total_word_docs:
             doc_tag = etree.SubElement(documents_tag, "document")
 
-            tfidf_total = etree.SubElement(doc_tag, "tf_idf")
-            tfidf_total.text = str(word_obj.tfidf_total)
+            tfidf_full = etree.SubElement(doc_tag, "tf_idf")
+            tfidf_full.text = str(word_obj.tfidf_full)
 
             tfidf_abstract = etree.SubElement(doc_tag, "tf_idf_abstract")
             tfidf_abstract.text = str(word_obj.tfidf_abstract)
@@ -116,9 +124,11 @@ if __name__ == "__main__":
             tfidf_title = etree.SubElement(doc_tag, "tfidf_title")
             tfidf_title.text = str(word_obj.tfidf_title)
 
+            tfidf_total = etree.SubElement(doc_tag, "tf_idf_full")
+            tfidf_total.text = str(word_obj.tfidf_total)
 
 
-    output = open("tf_idf.xml", "w")
+    output = open("tf_idf_result.xml", "w")
     output.write(etree.tostring(root_tf, pretty_print=True, xml_declaration=True, encoding='UTF-8'))
     output.close()
 

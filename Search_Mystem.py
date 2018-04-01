@@ -29,7 +29,7 @@ if __name__ == '__main__':
 
 
     # query = raw_input("enter your request: ").decode("utf8")
-    query = "алгоритмы анализа данных -без -потери атомной -бомбы".decode("utf8")
+    query = "алгоритмы -анализа данных" #.decode("utf8")
 
     doc_set = set()
 
@@ -40,7 +40,7 @@ if __name__ == '__main__':
         word_obj = word_dict.get(s_word)
         if (word_obj == None):
             continue
-        print word_obj.value
+        print(word_obj.value)
         if "-" in word:
             doc_set.difference_update(word_dict[s_word].documents_article)
             doc_set.difference_update(word_dict[s_word].documents_title)
@@ -48,7 +48,13 @@ if __name__ == '__main__':
             doc_set.update(word_dict[s_word].documents_article)
             doc_set.update(word_dict[s_word].documents_title)
 
-    print doc_set
+    print(doc_set)
+
+    output = open("search_result.txt", "a", encoding="utf8")
+    output.write(query)
+    output.write(str(doc_set))
+    output.write("\n")
+    output.close()
 
     # print query
     #

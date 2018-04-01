@@ -60,4 +60,4 @@ class Porter:
 
 
 if __name__ == '__main__':
-    print Porter.stem(u'устойчивость')
+    print(Porter.stem(u'устойчивость'))

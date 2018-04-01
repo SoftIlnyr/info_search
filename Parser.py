@@ -1,5 +1,5 @@
 # coding=utf-8
-from StringIO import StringIO
+import io
 import requests
 from Porter import Porter
 from pymystem3 import Mystem
@@ -12,7 +12,7 @@ def getXMLTreeByLink(link):
     page.encoding = 'windows-1251'
 
     parser = html.HTMLParser()
-    tree = html.parse(StringIO(page.text), parser)
+    tree = html.parse(io.StringIO(page.text), parser)
 
     return tree
 
