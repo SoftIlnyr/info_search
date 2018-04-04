@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TF_IDF>
+    <queries>
+        <query value="алгоритмы анализа больших вертикальных">
+            <documents>
+                <document id="3">
+                    <tf_idf>0.05609943256372378</tf_idf>
+                    <tf_idf_abstract>0.041649578721552505</tf_idf_abstract>
+                    <tfidf_title>0.3218875824868201</tfidf_title>
+                    <tf_idf_full>0.21812229672502353</tf_idf_full>
+                </document>
+                <document id="9">
+                    <tf_idf>0.021309086787771048</tf_idf>
+                    <tf_idf_abstract>0.02349463415061936</tf_idf_abstract>
+                    <tfidf_title>0.0</tfidf_title>
+                    <tf_idf_full>0.014096780490371618</tf_idf_full>
+                </document>
+                <document id="0">
+                    <tf_idf>0.019919363736394677</tf_idf>
+                    <tf_idf_abstract>0.02545252032983764</tf_idf_abstract>
+                    <tfidf_title>0.0</tfidf_title>
+                    <tf_idf_full>0.010181008131935057</tf_idf_full>
+                </document>
+                <document id="4">
+                    <tf_idf>0.01851092387624556</tf_idf>
+                    <tf_idf_abstract>0.019705177029551723</tf_idf_abstract>
+                    <tfidf_title>0.0</tfidf_title>
+                    <tf_idf_full>0.011823106217731034</tf_idf_full>
+                </document>
+                <document id="1">
+                    <tf_idf>0.012217209758322068</tf_idf>
+                    <tf_idf_abstract>0.014544297331335795</tf_idf_abstract>
+                    <tfidf_title>0.0</tfidf_title>
+                    <tf_idf_full>0.005817718932534318</tf_idf_full>
+                </document>
+            </documents>
+        </query>
+        <query value="возможность геометрических данных">
+            <documents>
+                <document id="5">
+                    <tf_idf>0.02980440578581667</tf_idf>
+                    <tf_idf_abstract>0.03576528694298001</tf_idf_abstract>
+                    <tfidf_title>0.0</tfidf_title>
+                    <tf_idf_full>0.014306114777192003</tf_idf_full>
+                </document>
+                <document id="1">
+                    <tf_idf>0.015192457109178199</tf_idf>
+                    <tf_idf_abstract>0.01808625846330738</tf_idf_abstract>
+                    <tfidf_title>0.0</tfidf_title>
+                    <tf_idf_full>0.01305222231785727</tf_idf_full>
+                </document>
+                <document id="4">
+                    <tf_idf>0.01150943720392288</tf_idf>
+                    <tf_idf_abstract>0.012251981539659838</tf_idf_abstract>
+                    <tfidf_title>0.0</tfidf_title>
+                    <tf_idf_full>0.00884182802177428</tf_idf_full>
+                </document>
+                <document id="11">
+                    <tf_idf>0.007784077371425922</tf_idf>
+                    <tf_idf_abstract>0.008925742052568391</tf_idf_abstract>
+                    <tfidf_title>0.0</tfidf_title>
+                    <tf_idf_full>0.0035702968210273565</tf_idf_full>
+                </document>
+                <document id="8">
+                    <tf_idf>0.003281522813444261</tf_idf>
+                    <tf_idf_abstract>0.0035419611319715836</tf_idf_abstract>
+                    <tfidf_title>0.0</tfidf_title>
+                    <tf_idf_full>0.0014167844527886336</tf_idf_full>
+                </document>
+            </documents>
+        </query>
+        <query value="он показывает поле">
+            <documents>
+                <document id="3">
+                    <tf_idf>0.16387926722995028</tf_idf>
+                    <tf_idf_abstract>0.15099522120790163</tf_idf_abstract>
+                    <tfidf_title>0.0</tfidf_title>
+                    <tf_idf_full>0.11711013052897436</tf_idf_full>
+                </document>
+                <document id="5">
+                    <tf_idf>0.042870511351714866</tf_idf>
+                    <tf_idf_abstract>0.05522014777306668</tf_idf_abstract>
+                    <tfidf_title>0.07701635339554948</tfidf_title>
+                    <tf_idf_full>0.08422462198413908</tf_idf_full>
+                </document>
+                <document id="6">
+                    <tf_idf>0.04123373980760993</tf_idf>
+                    <tf_idf_abstract>0.06111641981438357</tf_idf_abstract>
+                    <tfidf_title>0.09902102579427789</tfidf_title>
+                    <tf_idf_full>0.08697814577238297</tf_idf_full>
+                </document>
+                <document id="8">
+                    <tf_idf>0.023850888712244965</tf_idf>
+                    <tf_idf_abstract>0.0348765805926384</tf_idf_abstract>
+                    <tfidf_title>0.0</tfidf_title>
+                    <tf_idf_full>0.019099395514619352</tf_idf_full>
+                </document>
+                <document id="14">
+                    <tf_idf>0.02349651459525238</tf_idf>
+                    <tf_idf_abstract>0.013329753472306641</tf_idf_abstract>
+                    <tfidf_title>0.0</tfidf_title>
+                    <tf_idf_full>0.005331901388922657</tf_idf_full>
+                </document>
+                <document id="2">
+                    <tf_idf>0.006237924740125606</tf_idf>
+                    <tf_idf_abstract>0.0</tf_idf_abstract>
+                    <tfidf_title>0.11552453009332421</tfidf_title>
+                    <tf_idf_full>0.06931471805599453</tf_idf_full>
+                </document>
+            </documents>
+        </query>
+    </queries>
+</TF_IDF>

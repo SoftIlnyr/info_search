@@ -1,5 +1,5 @@
 # coding=utf-8
-from StringIO import StringIO
+import io
 
 import math
 import requests
@@ -8,6 +8,10 @@ from pymystem3 import Mystem
 from Entities import *
 import re
 from lxml import etree, html
+import operator
+
+from Search_Mystem import *
+
 
 def get_keywords(filename):
     keyword_set = set()
@@ -18,123 +22,131 @@ def get_keywords(filename):
     return keyword_set
 
 
-
-if __name__ == "__main__":
-    #достаем список слов
-    tree = etree.parse("word_info_mystem.xml")
+def get_documents(filename):
+    tree = etree.parse(filename)
     root = tree.getroot()
 
-    word_dict = {}
+    doc_dict = {}
 
-    for word_tag in root.iter("word"):
-        word_val = word_tag.attrib["value"]
-        word = Word(word_val)
-        doc_article = word_tag.find("documents_article")
-        doc_title = word_tag.find("documents_title")
-        for doc in doc_article.findall("document"):
-            word.documents_article.append(int(doc.attrib["id"]))
-        for doc in doc_title.findall("document"):
-            word.documents_title.append(int(doc.attrib["id"]))
-        word_dict[word_val] = word
+    for doc_tag in root.iter("article"):
+        doc = Document()
+        doc.id = int(doc_tag.attrib["id"])
+        doc.abstract = doc_tag.find("abstract-mystem").text
+        doc.title = doc_tag.find("title-mystem").text
+        doc_dict[doc.id] = doc
 
-    #достаем ключевые слова
-    tree_article = etree.parse("result.xml")
-    root_article = tree_article.getroot()
-    articles = []
-    for article in root_article.iter("article"):
-        articles.append(article)
+    return doc_dict
 
 
-    keyword_set = get_keywords("result.xml")
+def get_doc_score(query):
+    # достаем список слов
 
+    word_dict = get_words("word_info_mystem.xml")
+    doc_dict = get_documents("result.xml")
 
+    doc_list, stemmed_words = get_documents_by_search(query, word_dict)
 
-    for word in keyword_set:
-        print word
+    result_doc_dict = {}
 
+    for doc_id in doc_list:
+        doc_obj = doc_dict[doc_id]
+
+        doc_obj.tfidf_abstract = 0
+        doc_obj.tfidf_title = 0
+        doc_obj.tfidf_total = 0
+        doc_obj.tfidf_full = 0
+
+        result_doc_dict[doc_id] = doc_obj
+
+    for word in stemmed_words:
         word_obj = word_dict.get(word)
 
         if (word_obj is None):
             continue
 
-        #находим idf
-        if (len(word_obj.documents_article) > 0):
-            idf_abstract = math.log(len(articles) / len(word_obj.documents_article))
+        # находим idf
+        print(doc_list.intersection(word_obj.documents_article))
+        if (len(doc_list.intersection(word_obj.documents_article)) > 0):
+            idf_abstract = math.log(len(doc_list) / len(doc_list.intersection(word_obj.documents_article)))
         else:
             idf_abstract = 0
 
-        if (len(word_obj.documents_title) > 0):
-            idf_title = math.log(len(articles) / len(word_obj.documents_title))
+        print(doc_list.intersection(word_obj.documents_title))
+        if (len(doc_list.intersection(word_obj.documents_title)) > 0):
+            idf_title = math.log(len(doc_list) / len(doc_list.intersection(word_obj.documents_title)))
         else:
             idf_title = 0
 
-        total_word_docs = set(word_obj.documents_article)
-        total_word_docs.update(word_obj.documents_title)
+        total_word_docs = set(word_obj.documents_article).intersection(doc_list)
+        total_word_docs.update(doc_list.intersection(word_obj.documents_title))
 
-        idf_full = math.log(len(articles) / len(total_word_docs))
+        idf_full = math.log(len(doc_list) / len(total_word_docs))
 
-        for doc_id in total_word_docs:
-            article_abstract_text = articles[doc_id].find("abstract-mystem").text
-            article_title_text = articles[doc_id].find("title-mystem").text
+        for doc_id_2 in total_word_docs:
+            doc_obj = result_doc_dict[doc_id_2]
+            article_abstract_text = doc_dict[doc_id_2].abstract
+            article_title_text = doc_dict[doc_id_2].title
 
-            #находим tf и tfidf
-            print(article_title_text.count(word))
-            print float(len(article_title_text.split(" ")))
-
-            tf_title =  float(article_title_text.count(word)) / len(article_title_text.split(" "))
-            word_obj.tfidf_title = tf_title * idf_title
+            tf_title = float(article_title_text.count(word)) / len(article_title_text.split(" "))
+            doc_obj.tfidf_title += tf_title * idf_title
 
             tf_abstract = float(article_abstract_text.count(word)) / len(article_abstract_text.split(" "))
-            word_obj.tfidf_abstract = tf_abstract * idf_abstract
+            doc_obj.tfidf_abstract += tf_abstract * idf_abstract
 
             article_full_text = article_title_text + " " + article_abstract_text
 
             tf_full = float(article_full_text.count(word)) / len(article_full_text.split(" "))
-            word_obj.tfidf_full = tf_full
+            doc_obj.tfidf_full += tf_full * idf_full
 
-            #находим total tfidf
-            word_obj.tfidf_total = 0.4 * word_obj.tfidf_abstract + 0.6 * word_obj.tfidf_title
+            # находим total tfidf
+            doc_obj.tfidf_total += 0.4 * doc_obj.tfidf_abstract + 0.6 * doc_obj.tfidf_title
 
-    #выводим результат
-    root_tf = etree.Element('TF_IDF')
+    #сортировка
+    result = {}
+    for doc in sorted(result_doc_dict.values(), key=operator.attrgetter("tfidf_full"), reverse=True):
+        result[doc.id] = doc
 
-    for word in keyword_set:
-        word_obj = word_dict.get(word)
+    return result
 
-        if (word_obj is None):
-            continue
-
-        word_tag = etree.SubElement(root_tf, "word")
-        word_tag.set("value", word)
-
-        documents_tag = etree.SubElement(word_tag, "documents")
-
-        total_word_docs = set(word_obj.documents_article)
-        total_word_docs.update(word_obj.documents_title)
-
-        for doc_id in total_word_docs:
-            doc_tag = etree.SubElement(documents_tag, "document")
-
-            tfidf_full = etree.SubElement(doc_tag, "tf_idf")
-            tfidf_full.text = str(word_obj.tfidf_full)
-
-            tfidf_abstract = etree.SubElement(doc_tag, "tf_idf_abstract")
-            tfidf_abstract.text = str(word_obj.tfidf_abstract)
-
-            tfidf_title = etree.SubElement(doc_tag, "tfidf_title")
-            tfidf_title.text = str(word_obj.tfidf_title)
-
-            tfidf_total = etree.SubElement(doc_tag, "tf_idf_full")
-            tfidf_total.text = str(word_obj.tfidf_total)
+if __name__ == "__main__":
+    tf_scores = {}
 
 
-    output = open("tf_idf_result.xml", "w")
-    output.write(etree.tostring(root_tf, pretty_print=True, xml_declaration=True, encoding='UTF-8'))
+    query = "алгоритмы анализа больших вертикальных"
+    tf_scores[query] = get_doc_score(query)
+
+    query = "возможность геометрических данных"
+    tf_scores[query] = get_doc_score(query)
+
+    query = "он показывает поле"
+    tf_scores[query] = get_doc_score(query)
+
+    root = etree.Element("TF_IDF")
+
+    queries_tag = etree.SubElement(root, "queries")
+
+    for q in tf_scores.keys():
+        query_tag = etree.SubElement(queries_tag, "query")
+        query_tag.set("value", q)
+        documents_tag = etree.SubElement(query_tag, "documents")
+        for doc_obj in tf_scores.get(q).values():
+            document_tag = etree.SubElement(documents_tag, "document")
+            document_tag.set("id", str(doc_obj.id))
+
+            tfidf_full = etree.SubElement(document_tag, "tf_idf")
+            tfidf_full.text = str(doc_obj.tfidf_full)
+
+            tfidf_abstract = etree.SubElement(document_tag, "tf_idf_abstract")
+            tfidf_abstract.text = str(doc_obj.tfidf_abstract)
+
+            tfidf_title = etree.SubElement(document_tag, "tfidf_title")
+            tfidf_title.text = str(doc_obj.tfidf_title)
+
+            tfidf_total = etree.SubElement(document_tag, "tf_idf_full")
+            tfidf_total.text = str(doc_obj.tfidf_total)
+
+    output = open("tf_idf_queries.xml", "wb")
+    output.write(etree.tostring(root, pretty_print=True, xml_declaration=True, encoding='UTF-8'))
     output.close()
 
-
-
-
-    #для каждого ключевого слова находим tf, idf, tf-idf по abstract, по title и общий
-
-
+    # для каждого ключевого слова находим tf, idf, tf-idf по abstract, по title и общий

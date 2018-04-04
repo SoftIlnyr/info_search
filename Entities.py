@@ -5,12 +5,7 @@ class Document:
     id = 0
     dict = {}
     count = 0
-
-    def __init__(self, title):
-        self.title = title
-        self.id = self.count
-        Document.count += 1
-
+    text = ''
 
 class Word:
     def __init__(self, value):
