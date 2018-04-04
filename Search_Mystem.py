@@ -32,7 +32,7 @@ def get_documents_by_search(query, word_dict):
     for word in query.split(" "):
         if (len(word.strip()) == 0):
             continue
-        s_word = getStemText(word)
+        s_word = get_stem_text(word)
         word_obj = word_dict.get(s_word)
         if (word_obj == None):
             continue

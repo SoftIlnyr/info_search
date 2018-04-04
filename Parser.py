@@ -27,7 +27,7 @@ def getPorterText(text):
             text_porter = text_porter + " " + Porter.stem(word1)
     return text_porter
 
-def getStemText(text):
+def get_stem_text(text):
     m = Mystem()
     text_raw = re.sub(u'[^a-zA-Zа-яА-ЯйЙёЁ _]+', '', text)
     text_stem = m.lemmatize(text_raw)
@@ -62,7 +62,7 @@ if (__name__) == "__main__":
         article_title_porter.text = getPorterText(title_raw)
 
         article_title_stem = etree.SubElement(article, 'title-mystem')
-        article_title_stem.text = getStemText(title_raw)
+        article_title_stem.text = get_stem_text(title_raw)
 
         article_tree = getXMLTreeByLink(article_link.text)
 
@@ -85,7 +85,7 @@ if (__name__) == "__main__":
         article_stem = etree.SubElement(article, 'abstract-mystem')
         try:
             text_raw = article_tree.xpath(expression_annotation)[0]
-            article_stem.text =  getStemText(text_raw)
+            article_stem.text =  get_stem_text(text_raw)
         except IndexError:
             article_stem.text = 'null'
 
@@ -97,7 +97,7 @@ if (__name__) == "__main__":
             for keyword_value in keywords:
                 keyword_value = re.sub(u'[^a-zA-Zа-яА-ЯйЙёЁ]+', '', keyword_value)
                 article_keyword = etree.SubElement(article_keywords, 'keyword')
-                article_keyword.text = getStemText(keyword_value)
+                article_keyword.text = get_stem_text(keyword_value)
         except IndexError:
             pass
 
