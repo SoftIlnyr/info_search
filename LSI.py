@@ -6,6 +6,7 @@ import numpy as np
 
 from Parser import get_stem_text
 from TF_IDF import get_documents, get_words
+from lxml import etree, html
 
 
 def build_matrix(documents, words, tf_idf=False):
@@ -62,12 +63,11 @@ def calc_lsi(documents, words, k, matrix, query):
     u_k, s_k, v_k = svd_with_approximation(matrix, k)
     query_coordinates = pr_query.T @ u_k @ np.linalg.pinv(s_k)  # вычисляем q = q_T * u_k * s_k ^-1
     doc_coordinates = matrix.T @ u_k @ np.linalg.pinv(s_k)  # вычисляем A = A_T * u_k * s_k ^-1
-
     # берем срез вектора вдоль главной оси и вычисляем косинусную меру
     # для каждого документа считаем его косинусную меру
     result = np.apply_along_axis(lambda row: similarity(query_coordinates, row), axis=1, arr=doc_coordinates)
     ranking = np.argsort(-result)
-    return ranking
+    return ranking, doc_coordinates
 
 
 if __name__ == "__main__":
@@ -78,24 +78,32 @@ if __name__ == "__main__":
     # строим матрицу
     matrix = build_matrix(documents, words)
 
-    result_file = open("result_lsi.txt", "w", encoding="utf8")
+    lsi_vector = {}
+    lsi_matrix = {}
 
-    query = "он показывает поле"
-    k = 5
+    k = 2
 
-    result_list = calc_lsi(documents, words, k, matrix, query)
-    print(result_list)
-    result_file.write(query)
-    result_file.write(str(result_list))
-    result_file.write("\n")
-
+    query = "алгоритмы анализа больших вертикальных"
+    lsi_vector[query], lsi_matrix[query] = calc_lsi(documents, words, k, matrix, query)
 
     query = "возможность геометрических данных"
-    result_list = calc_lsi(documents, words, k, matrix, query)
-    print(result_list)
-    result_file.write(query)
-    result_file.write(str(result_list))
-    result_file.write("\n")
+    lsi_vector[query], lsi_matrix[query] = calc_lsi(documents, words, k, matrix, query)
 
+    query = "он показывает поле"
+    lsi_vector[query], lsi_matrix[query] = calc_lsi(documents, words, k, matrix, query)
 
-    result_file.close()
+    root = etree.Element("TF_IDF")
+
+    queries_tag = etree.SubElement(root, "queries")
+
+    for q in lsi_vector.keys():
+        query_tag = etree.SubElement(queries_tag, "query")
+        query_tag.set("value", q)
+        lsi_matrix_tag = etree.SubElement(query_tag, "matrix")
+        lsi_matrix_tag.text = str(lsi_matrix[q])
+        lsi_vector_tag = etree.SubElement(query_tag, "vector")
+        lsi_vector_tag.text = str(lsi_vector[q])
+
+    output = open("lsi_result.xml", "wb")
+    output.write(etree.tostring(root, pretty_print=True, xml_declaration=True, encoding='UTF-8'))
+    output.close()
